@@ -1,18 +1,5 @@
 # Welcome to Naomi T-T Levine's Website
 
-[Cv](cv)
-
-## Current Educational Work 
-
-She is a PhD candidate in the Brian Lamb School of Communication at Purdue University
-
-Her major area of concentration is in Organizational Communication with research interests in the following:
-- Physical and digital infrastructure
-- Diversity, equity and inclusion
-- Expressed organizational values
-- Identification
-- Empathy
-
 ## Educational Attainment
 
 She earned an M.A. in Applied Anthropology from IUPUI in 2019
