@@ -1,6 +1,6 @@
 ## Welcome to Naomi T-T Levine's Website
 
-![Image](Naomi.jpg)
+![Image](Naomi2.jpg)
 You can learn more about Naomi by emailing her at naomit.tlevine@gmail.com
 
 ### Markdown
