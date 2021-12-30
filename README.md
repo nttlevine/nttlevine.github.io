@@ -1,6 +1,6 @@
 # Welcome to Naomi T-T Levine's Website
 
-[Cv] (cv)
+[Cv](cv)
 
 ## Current Educational Work 
 
