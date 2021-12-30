@@ -1,5 +1,4 @@
 # Welcome to Naomi T-T Levine's Website
-![Image](Naomi2.jpg)
 
 ## Current Educational Work 
 
