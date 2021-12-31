@@ -11,7 +11,12 @@ This is a brief list of the works that I am currently reading as well as what's 
 
 "Sprite and the Gardener" _Joe Whitt & Rii Abrego_
 
+"Going Postal" _Terry Pratchett_
+
+"Mushrooming with Confidence: A Guide to Collecting Edible and Tasty Mushrooms" _Alexander Schwab_
+
 ### Professional
+Oliver, R. A., & Atmore, A. (1981). _The African middle ages, 1400-1800._ CUP Archive.
 
 Hassenzahl, M. (2013). User experience and experience design. _The encyclopedia of human-computer interaction, 2._
 
