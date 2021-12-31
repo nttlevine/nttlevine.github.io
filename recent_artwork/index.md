@@ -1,6 +1,6 @@
 ## Artwork by Naomi
 ### Zoom wedding
-[zoom_wedding](zoom_wedding.png)
+[zoom_wedding](zoom_wedding.jpg)
 
 _This multimedia art work was created over the course of several years. The final product was realized during the COVID-19 spring of 2021._
 
