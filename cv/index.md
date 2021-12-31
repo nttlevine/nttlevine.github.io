@@ -87,7 +87,9 @@ Book Indexer for Conflict and Peace: Transforming Conflict and Building Peace un
 - Created the index for the book using a combination of Python coding and manual scraping.
 
 ## Accolades
+
 Student Leadership Award from Green River Community College, 2013
+
 Nominated for William M. Plater Civic Engagement Medallion from IUPUI, 2018
 
 ## Activities 
