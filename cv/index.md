@@ -1,4 +1,4 @@
-##Education
+## Education
 
 Green River Community College, September 2012-June 2014 (earned: AA transfer degree)
 
@@ -8,7 +8,7 @@ Indiana University Purdue University Indianapolis, August 2017-August 2019 (earn
 
 Purdue University, August 2019-Current, 3.71 GPA (program: PhD in Organizational Communication Studies; ABD as of Fall 2021) 
 
-##Research & Grant Work
+## Research & Grant Work
 
 International Friend with International Cup of Tea under Steven (Monk) Wells in Boise, ID; 2012 (service-learning, volunteer: 40-hour project over one semester) 
 Peer Advocate with Green River Peer Mentoring and Service Learning Program (formerly Connect 2 complete C2C) under Dyane Haynes in Auburn, WA; April 2013- June 2014
@@ -48,7 +48,7 @@ Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at 
 Data Analyst with LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current 
 - I will be assisting with analyzing and archiving secondary data gathered for this project from different agencies within Ethiopia. 
 
-##Conference Acceptance
+## Conference Acceptance
 
 Graduates Achieving Inclusion Now (GAIN), Virtual, Moderated Parallel sessions on Homophobia & Transphobia and Ableism & Mental Health (September 26th-October 17th, 2021)
 
@@ -56,7 +56,7 @@ OCMC, University of Kentucky, Virtual, Presented [“A Community Based Empatheti
 
 NCA, Seattle, WA, co-authored paper accepted to Feminist and Women’s Studies Division (November 2021)
 
-##Teaching
+## Teaching
 Teaching Assistant for Low-Wage Labor in a Global Economy (Inside-Out Program) at Indiana University-Purdue University Indianapolis & Dove Recovery House for Women under Dr. Susan Hyatt in Indianapolis, IN; January 2019-May 2019 
 - I helped grade papers, develop lesson plans and activities, and co-taught class with Dr. Hyatt. 
 - I lead the teaching for two weeks while Dr. Hyatt was out of town.
@@ -73,7 +73,7 @@ Teaching Assistant for Critical Perspectives in Communication (COM204) at Purdue
 
 Recreational Art Instructor for Purdue Graduate Student Government in West Lafayette, IN; February 2019-Current
 
-##Other Experience
+## Other Experience
 
 Program Specialist II with Tacoma Community College Workforce Education under Kelli Johnston and Pwint Koko in Tacoma, WA; January 2017-July 2017
 - Performed attendance tracking for Workfirst grant students and reported their hours to DSHS through E-Jas.
@@ -86,11 +86,11 @@ Program Specialist II with Tacoma Community College Workforce Education under Ke
 Book Indexer for Conflict and Peace: Transforming Conflict and Building Peace under Dr. Stacey Connaughton in West Lafayette, IN; November 2020- July 2020
 - Created the index for the book using a combination of Python coding and manual scraping.
 
-##Accolades
+## Accolades
 Student Leadership Award from Green River Community College, 2013
 Nominated for William M. Plater Civic Engagement Medallion from IUPUI, 2018
 
-##Activities 
+## Activities 
 
 Boise State Model United Nations (2012)
 
@@ -111,8 +111,7 @@ Anti-Racist Reading Group (Purdue Math Department); Co-facilitator (West Lafayet
 
 Writer’s Workshop Group; Founder and facilitator (West Lafayette September 2020-current)
 
-
-##Conferences Attended
+## Conferences Attended
 
 CUSP Student Leadership Conference, Wenatchee, WA (2013)
 
