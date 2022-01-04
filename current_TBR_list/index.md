@@ -16,6 +16,8 @@ This is a brief list of the works that I am currently reading as well as what's 
 "Mushrooming with Confidence: A Guide to Collecting Edible and Tasty Mushrooms" _Alexander Schwab_
 
 ### Professional
+_Additional readings are being done with the Antiracist Reading Group and can be found on the [Antiracist Reading List](https://www.math.purdue.edu/~bradfoa/antiracist_reading_group/reading_list/)
+
 Oliver, R. A., & Atmore, A. (1981). _The African middle ages, 1400-1800._ CUP Archive.
 
 Hassenzahl, M. (2013). User experience and experience design. _The encyclopedia of human-computer interaction, 2._
