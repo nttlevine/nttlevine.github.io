@@ -1,14 +1,21 @@
 ## Research
 ### Interest Areas
-
-She is a PhD candidate in the Brian Lamb School of Communication at Purdue University
-
 Her major area of concentration is in Organizational Communication with research interests in the following:
 - Physical and digital infrastructure
 - Diversity, equity and inclusion
 - Expressed organizational values
 - Identification
 - Empathy
+
+M.A. in Applied Anthropology 2019
+- Specializations were in public health, community organizing, identity, and folklore/storytelling 
+
+B.A. in Women's Studies 2016
+- With minors in Comparative Ethnic Studies and Archaeology
+- Areas of interest were Chicana, Black and Intersectional feminisms; addiction recovery; domestic violence; mental health; and, personal storytelling
+
+A.A. 2014
+- Areas of interest were Communication Studies, sex education, and domestic violence
 
 ### Present 
 Data Analyst with LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current 
