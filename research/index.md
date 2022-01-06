@@ -1,12 +1,15 @@
 ## Research
-### Interest Areas
-Her major area of concentration is in Organizational Communication with research interests in the following:
+### Evolution of Interests
+I do not tend to focus on having a set career goal that I am working toward when I choose projects to participate in, topics to spend hours digging into, or work I put out for others to consider; however, I do regularly choose to reflect upon the trail of mementos that I have left behind me as I forged ahead<sup>1</sup>.
+
+Currently, my areas of interest, as a PhD candidate in Organizational Communication are:
 - Physical and digital infrastructure
 - Diversity, equity and inclusion
 - Expressed organizational values
 - Identification
 - Empathy
 
+Taking my interests in physical and digital infrastructures, I can see linkages to this from as far back as early childhood while growing up around plumbing and construction as well as having watched as a parent went to school to become a Certified Occupational Therapy Assistant (COTA). Growing up around floor plans; ventilation, electircal, and plumbing blueprints; and spending days off from school around construction sites influenced my early imagination which was expressed through self-made box forts out of waterheater boxes, highly imaginative drawings of floor plans for houses with improbible room themes, and small cities made out of locally forged materials. As I got older, my parent returned to school in their 30s and my days off from school were then spent in anatomy & physiology classes, science labs, and being the live model for practicing splint making and studying musle groups; all this exposed me to how human bodies can function and can adapt with(out) the use of tools.  
 M.A. in Applied Anthropology 2019
 - Specializations were in public health, community organizing, identity, and folklore/storytelling 
 
@@ -17,15 +20,15 @@ B.A. in Women's Studies 2016
 A.A. 2014
 - Areas of interest were Communication Studies, sex education, and domestic violence
 
-### Present 
+<sup>1</sup> It is critical that _we_ begin to recognize how both the trail of mementos as well as the act of forging ahead are not fully autonomous decisions. Often, our choices are dictated by, as Maslow would convieve of them, base needs like the ability to eat, sleep, and live in a secure shelter. These needs continue to come at a cost under the contemporary socio-political conceptualization of what _life_ looks like. While I value the work that I've done, I do think that it is critical to recognize this major influence on my decision making publically. 
+
+### Current Work 
 Data Analyst with LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current 
 - I will be assisting with analyzing and archiving secondary data gathered for this project from different agencies within Ethiopia. 
 
 OCMC, University of Kentucky, Virtual, Presented [“A Community Based Empathetic Scholarship Model”](https://www.youtube.com/watch?v=rodHVoKKnOE) for a Lightning Talk (October 23-24, 2021)
 
-### Anticipated 
-
-### Past
+### Previous Work
 Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
 - I assisted in gathering and coding Tweets for inductive thematic analysis.
 - I provided an intersectional feminist perspective and language during the interpretation and write-up of research.
