@@ -5,11 +5,19 @@ I do not tend to focus on having a set career goal that I am working toward when
 Currently, my areas of interest, as a PhD candidate in Organizational Communication are:
 - Physical and digital infrastructure
 - Diversity, equity and inclusion
-- Expressed organizational values
 - Identification
+- Expressed organizational values
 - Empathy
 
-Taking my interests in physical and digital infrastructures, I can see linkages to this from as far back as early childhood while growing up around plumbing and construction as well as having watched as a parent went to school to become a Certified Occupational Therapy Assistant (COTA). Growing up around floor plans; ventilation, electircal, and plumbing blueprints; and spending days off from school around construction sites influenced my early imagination which was expressed through self-made box forts out of waterheater boxes, highly imaginative drawings of floor plans for houses with improbible room themes, and small cities made out of locally forged materials. As I got older, my parent returned to school in their 30s and my days off from school were then spent in anatomy & physiology classes, science labs, and being the live model for practicing splint making and studying musle groups; all this exposed me to how human bodies can function and can adapt with(out) the use of tools.  
+Taking my interests in physical and digital infrastructures, I can see linkages to this from as far back as early childhood while growing up around plumbing and construction as well as having watched as a parent went to school to become a Certified Occupational Therapy Assistant (COTA). Growing up around floor plans; ventilation, electircal, and plumbing blueprints; and spending days off from school around construction sites influenced my early imagination which was expressed through self-made box forts out of waterheater boxes, highly imaginative drawings of floor plans for houses with improbible room themes, and small cities made out of locally forged materials. As I got older, my parent returned to school in their 30s and my days off from school were then spent in anatomy & physiology classes, science labs, and being the live model for practicing splint making and studying musle groups; all this exposed me to how human bodies can function and can adapt with(out) the use of tools. With all of this in my trail of mementos, as I took classes that taught me about intersectional feminism and communicaiton I got to thinking more about the mementos and how we communicate belonging through (lack of) accessibility in our building layouts. I was also introduced to how websites are (not) accessible by colleagues and public figures with a variety of (dis)abilities. What would it look like for an organization to have a fully accessible physical space and website? What does accessibility mean? And, finally, accessibility for who?
+
+DEI
+
+ID
+
+Values
+
+Empathy
 M.A. in Applied Anthropology 2019
 - Specializations were in public health, community organizing, identity, and folklore/storytelling 
 
