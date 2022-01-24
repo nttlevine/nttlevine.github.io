@@ -15,11 +15,11 @@ This is a group of graduate students in the Brian Lamb School of Communication t
 We are open to graduate students from all disciplines! Why struggle alone when it's more cathartic to struggle together? Spring Semester 2022 we will be meeting on Mondays and Wednesdays.
 
 Here's a list of some of the helpful resources that members have shared that have helped them as they work on improving their relationship to the work of writing and the writing process: 
--The book ["Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"](https://jamesclear.com/atomic-habits) by James Clear
--The book ["Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success"](https://wendybelcher.com/writing-advice/writing-your-journal-article-in-twelve/) by Wendy Laura Belcher
--The article ["Teach Writing as a Process Not Product"](https://mwover.files.wordpress.com/2018/05/murray-teach-writing-as-a-process-not-product.pdf) by Donald M. Murray
--The app _Focus Keeper_ available on [Apple](https://apps.apple.com/us/app/focus-keeper-time-management/id867374917) or [Android](https://play.google.com/store/apps/details?id=co.pixo.apps.focuskeeper&hl=en_US&gl=US)
--The app _Rescuetime_ is available for both [MacOS and Windows](https://www.rescuetime.com/) 
+- The book ["Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"](https://jamesclear.com/atomic-habits) by James Clear
+- The book ["Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success"](https://wendybelcher.com/writing-advice/writing-your-journal-article-in-twelve/) by Wendy Laura Belcher
+- The article ["Teach Writing as a Process Not Product"](https://mwover.files.wordpress.com/2018/05/murray-teach-writing-as-a-process-not-product.pdf) by Donald M. Murray
+- The app _Focus Keeper_ available on [Apple](https://apps.apple.com/us/app/focus-keeper-time-management/id867374917) or [Android](https://play.google.com/store/apps/details?id=co.pixo.apps.focuskeeper&hl=en_US&gl=US)
+- The app _Rescuetime_ is available for both [MacOS and Windows](https://www.rescuetime.com/) 
 
 If you are interested in joining, or would like more information, please contact Naomi Levine at naomit.tlevine@gmail.com
 
