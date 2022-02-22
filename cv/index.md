@@ -9,7 +9,7 @@ Washington State University, August 2014- May 2016 (President’s Honor Roll & P
 Green River Community College, September 2012-June 2014 (earned: AA transfer degree)
 
 ### Research & Grant Work
-_For more information on these projects and more see my [Research](https://nt-tl.net/research/) page_
+_For more information on these projects and more see my [Research](https://nt-tl.net/research/) page or find my work using my ORCiD: 0000-0002-9925-6676_
 
 Data Analyst with LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current  
 
