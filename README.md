@@ -12,4 +12,4 @@ Broadly, my [research](research) interests are physical & digital infrastructure
   
   [To Be Read](current_TBR_list)
   
- In addition to doing research I have ever gorwing experience with [teaching](teaching) and [art](recent_artwork)!
+ In addition to doing research I have ever growing experience with [teaching](teaching) and [art](recent_artwork)!
