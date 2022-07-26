@@ -8,6 +8,6 @@ Go to my page on [Organizational Relationships](organizational_relationships) to
   
 Broadly, my [research](research) interests are physical & digital infrastructure; diversity, equity, and inclusion; expressed organizational values; identification; and empathy. Current work has been focused on defining empathy for the purposes of making it actionable in research as part of the metatheoretical framework and [building a model](https://www.youtube.com/watch?v=rodHVoKKnOE) for describing what empathy could look like in different types of research. For more deatils see [Modeling Empathy](current_TBR_list) and learn more about the current state of the model, plans for growing the model, and the latest comments schoalrs have shared with me about this model.  
   
-Check out my page on [Methodologies](methodologies)to learn more about the kind of work I've done and hope to do in the future. 
+Check out my page on [Methodologies, Data Management & Metatheoretical Approach(es)](methodologies) to learn more about the kind of work I've done, hope to do in the future, and the lens through which I view my role in research and field work. 
   
 In addition to doing research I have ever gorwing experience with [teaching](teaching) and [art](recent_artwork)!
