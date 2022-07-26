@@ -4,19 +4,24 @@ There are a bunch of methods that I have used and several that I'd like to use a
 
 ### Methods I Have Used
 
-Focus Groups (standard and modified)
-Oral History Interviewing
-One-on-one Interviewing
-Storytelling & Narrative Analysis
-Inductive Thematic Analysis 
-Survey Development and Analysis
-Lite Descriptive Statistics
+- Focus Groups (standard and modified)
+- Oral History Interviewing
+- One-on-one Interviewing
+- Storytelling & Narrative Analysis
+- Inductive Thematic Analysis 
+- Survey Development and Analysis
+- Lite Descriptive Statistics
 
 ### Methods I Would Like to Try
 
-Storytelling Groups
-Pile Sorting
-Network Analysis
+- Storytelling Groups
+- Pile Sorting
+
+### Methods I Have Some Experience with & Lack Practice
+
+- Network Analysis
+- Natural Language Processing
+- Computer Programming
 
 ### Data Management
 
