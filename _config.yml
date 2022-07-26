@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Naomi T-T Levine
 logo: Naomi3.jpg
-
+github:
+  is_user_page: false
