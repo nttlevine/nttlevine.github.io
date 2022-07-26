@@ -1,11 +1,23 @@
-## Methodologies
+## Methodologies & Data Management
 
 There are a bunch of methods that I have used and several that I'd like to use at some point. 
 
-### Used
+### Methods I Have Used
 
-TBD
+Focus Groups (standard and modified)
+Oral History Interviewing
+One-on-one Interviewing
+Storytelling & Narrative Analysis
+Inductive Thematic Analysis 
+Survey Development and Analysis
+Lite Descriptive Statistics
 
-### To Be Used
+### Methods I Would Like to Try
 
-TBD
+Storytelling Groups
+Pile Sorting
+Network Analysis
+
+### Data Management
+
+I've done secondary data and archival data management for projects where I was working to try to blend qualitative and quantitative data into a usable database. Be sure to keep an eye out in the LASER PULSE July newsletter for my blog post about my approach to data management!
