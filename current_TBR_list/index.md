@@ -2,6 +2,8 @@
 
 This is where my endeavors to model empathy as a metatheoretical approach to conducting research by humans with humans will live. I intend to update this page as I get input from conferences and emails from scholars with their suggestions. 
 
+To submit your comments/suggestions and be anonymously added to the list of commenters below, email naomit.tlevine@gmail.com
+
 ### The Model
 ![Empathy Model](V.4.PNG)
 
