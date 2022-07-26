@@ -37,5 +37,5 @@ _This work was created as a means to recapture a memory of a moment that I had p
 
 [Even the Toothbrush Was Digital](https://youtu.be/UEXgznoUKl4) _is the second video essay that I created and was for a course I took in the fall of 2020. The goal of this project was to explore my relationship to technology during my time working-from-home because of COVID-19 and reflecting on the intersectionality of technological and work experiences._
 
-[Rotary Number Pad Infomercial](https://youtu.be/16BeWr7bywQ) _is a fake advertisement I created for Alden Bradford's electronics project where he transformed a rotary phone into a number pad for computers. Is it a practical item? Wil this be the next technological sensation? Does this feel a little adjacent to Steam Punk technologies? I'll let you decide._
+[Rotary Number Pad Infomercial](https://youtu.be/16BeWr7bywQ) _is a fake advertisement I created for Alden Bradford's electronics project where he transformed a rotary phone into a number pad for computers. Is it a practical item? Will this be the next technological sensation? Does this feel a little adjacent to Steam Punk technologies? I'll let you decide._
 
