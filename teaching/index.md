@@ -1,7 +1,7 @@
 ## Teaching
 ### Current Assignment
 
-Naomi will not be teaching for Spring semester 2022 as she will be on research leave
+Naomi is teaching COM325 during the Summer of 2022.
 
 ### Previous Teaching Assignments
 
