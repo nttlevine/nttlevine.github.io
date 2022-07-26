@@ -11,6 +11,12 @@ Green River Community College, September 2012-June 2014 (earned: AA transfer deg
 ### Research & Grant Work
 _For more information on these projects and more see my [Research](https://nt-tl.net/research/) page or find my work using my ORCiD: 0000-0002-9925-6676_
 
+Researcher with "Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- Current  
+
+Data Analyst with "Tracking the Process of Treatment Seeking in Breast Cancer Patients" at Purdue University with Yuehwern Yih and Min Lee in West Lafayette, IN; June 2022 to Current 
+
+Feminist consultant and Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
+
 Data Analyst with LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current  
 
 Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
@@ -33,7 +39,9 @@ OCMC, University of Kentucky, Virtual, Presented [“A Community Based Empatheti
 Graduates Achieving Inclusion Now (GAIN), Virtual, Moderated Parallel sessions on Homophobia & Transphobia and Ableism & Mental Health (September 26th-October 17th, 2021)
 
 ### Teaching
-Recreational Art Instructor for Purdue Graduate Student Government in West Lafayette, IN; February 2019-Current
+Teaching Assistant for Principles of Interviewing (COM325) at Purdue University under Traci Latoz in West Lafayette, IN; June 2022-August 2022
+
+Recreational Art Instructor for Purdue Graduate Student Government in West Lafayette, IN; February 2019-November 2021
 
 Teaching Assistant for Introduction to Communication Theory (COM102) at Purdue University under Dr. Glenn Sparks in West Lafayette, IN; January 2020-May 2020, August 2020-December 2020 & August 2021-December 2021 
 
@@ -60,6 +68,7 @@ Nominated for William M. Plater Civic Engagement Medallion from IUPUI, 2018
 Student Leadership Award from Green River Community College, 2013
 
 ### Activities 
+Communication Graduate Student Association; Diverstiy and Inclusion Secretary (West Lafayette August 2021-June 2022)
 Writer’s Workshop Group; Founder and Facilitator (West Lafayette September 2020-current)
 
 Anti-Racist Reading Group (Purdue Math Department); Co-facilitator (West Lafayette June 2020-current)

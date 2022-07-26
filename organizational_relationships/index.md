@@ -20,6 +20,32 @@ Here's a list of some of the helpful resources that members have shared that hav
 - The article ["Teach Writing as a Process Not Product"](https://mwover.files.wordpress.com/2018/05/murray-teach-writing-as-a-process-not-product.pdf) by Donald M. Murray
 - The app _Focus Keeper_ available on [Apple](https://apps.apple.com/us/app/focus-keeper-time-management/id867374917) or [Android](https://play.google.com/store/apps/details?id=co.pixo.apps.focuskeeper&hl=en_US&gl=US)
 - The app _Rescuetime_ is available for both [MacOS and Windows](https://www.rescuetime.com/) 
+- The video [_8 Productivity Hacks that Changed My Life_](https://www.youtube.com/watch?v=oBMOdWX7K3s) by artist Campbell Walker (a.k.a. Struthless)
 
 If you are interested in joining, or would like more information, please contact Naomi Levine at naomit.tlevine@gmail.com
 
+### [DISCO Network](https://www.disconetwork.org/)
+
+The DISCO Network integrates critical humanistic, social science, and artistic approaches to digital studies and foregrounds questions about the cultural implications of technology to envision a new anti-racist and anti-ableist digital future.
+
+The acronym DISCO stands for: Digital, Inquiry, Speculation, Collaboration, and Optimism! 
+
+__The following five labs are associated with the DISCO Network__
+
+[Black Communication & Technology Lab](https://www.bcatlab.org/) at the University of Maryland
+
+[Future Histories Studio](https://www.futurehistories.studio/home) at Stony Brook University
+
+[Digital Accessible Futures Lab](https://www.disconetwork.org/digital-af-lab) at the University of Michigan
+
+[Humanities & Technoscience Lab](https://www.disconetwork.org/hat-lab) at Purdue University
+
+[Project on Rhetorics of Equity, Access, Computation, & Humanities Lab](https://www.disconetwork.org/preach-lab) at Georgia Tech
+
+### [LASER PULSE](https://laserpulse.org/)
+
+LASER (Long-term Assistance and SErvices for Research) PULSE (Partners for University-Led Solutions Engine) is a five-year, $70M program funded through USAID’s Innovation, Technology, and Research Hub, that delivers research-driven solutions to field-sourced development challenges in USAID Partner countries.
+
+A consortium led by Purdue University, with core partners Catholic Relief Services, Indiana University, Makerere University, and the University of Notre Dame, implements the LASER PULSE program through a growing network of 2,700+ researchers and development practitioners in 62 countries.
+
+LASER PULSE collaborates with USAID missions, bureaus, and independent offices and other local stakeholders to identify research needs for critical development challenges, and funds and strengthens capacity of researcher-practitioner teams to co-design solutions that translate into policy and practice. 
