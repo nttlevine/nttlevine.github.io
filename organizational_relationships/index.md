@@ -41,3 +41,11 @@ __The following five labs are associated with the DISCO Network__
 [Humanities & Technoscience Lab](https://www.disconetwork.org/hat-lab) at Purdue University
 
 [Project on Rhetorics of Equity, Access, Computation, & Humanities Lab](https://www.disconetwork.org/preach-lab) at Georgia Tech
+
+### [LASER PULSE](https://laserpulse.org/)
+
+LASER (Long-term Assistance and SErvices for Research) PULSE (Partners for University-Led Solutions Engine) is a five-year, $70M program funded through USAID’s Innovation, Technology, and Research Hub, that delivers research-driven solutions to field-sourced development challenges in USAID Partner countries.
+
+A consortium led by Purdue University, with core partners Catholic Relief Services, Indiana University, Makerere University, and the University of Notre Dame, implements the LASER PULSE program through a growing network of 2,700+ researchers and development practitioners in 62 countries.
+
+LASER PULSE collaborates with USAID missions, bureaus, and independent offices and other local stakeholders to identify research needs for critical development challenges, and funds and strengthens capacity of researcher-practitioner teams to co-design solutions that translate into policy and practice. 
