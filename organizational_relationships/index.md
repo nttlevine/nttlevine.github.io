@@ -33,7 +33,11 @@ The acronym DISCO stands for: Digital, Inquiry, Speculation, Collaboration, and 
 __The following five labs are associated with the DISCO Network__
 
 [Black Communication & Technology Lab](https://www.bcatlab.org/) at the University of Maryland
+
 [Future Histories Studio](https://www.futurehistories.studio/home) at Stony Brook University
+
 [Digital Accessible Futures Lab](https://www.disconetwork.org/digital-af-lab) at the University of Michigan
+
 [Humanities & Technoscience Lab](https://www.disconetwork.org/hat-lab) at Purdue University
+
 [Project on Rhetorics of Equity, Access, Computation, & Humanities Lab](https://www.disconetwork.org/preach-lab) at Georgia Tech
