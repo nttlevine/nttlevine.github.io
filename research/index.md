@@ -15,18 +15,18 @@ As a scholar at the, among many, intersections of being white, cisgendered, bise
 
 In addition to being interested in how identities are supported/limited by institutions, I am interested in how individuals come to identify with the various institutions they interact with as well as what barriers exist to their being able to identify with a particular organization. Connected with my interests in physical and digital infrastructures, I am particularly interested in the ways that an organization is built could have an impact on how people either do or do not forge an identity as part of the institution. For example, there has been much discussion about gendered bathrooms being an infrastructural barrier to identifying with an organization for folks who identify as non-binary or are/have transitioned. The process of negotiating how to exist comfortably in the space is impacted by the physical infrastructural limit that cis-normative & bi-gendered bathrooms communicate. A similar barrier to organizational identification that exists within digital infrastructures are the ways that information is presented on websites of institutions. It is, as [Bob Regan](https://dl.acm.org/doi/abs/10.1145/990657.990663?casa_token=ALg1ZAOTRyQAAAAA:rV_eDuq9JoqgMIHCe0FTpCGzbEX1GdZRe31ANRONS_9-buyvNeBMaNfclNs1C8BWNb4TJC_v40ZiaQ) described in his 2004 ACM conference proceedings "A Failure of the Imagination" that there exists a fissure between web accessibility and web design. Regan's work and the countless labor of (dis)ability activists not only highlight the issue that many institutions will falsely assume they need to sacrifice on web accessibility in order to have a well-designed website, but challenges institutions to commit to doing both. These, and other similar, interactions between individuals and the various institutions that are part of their lives are what embody my interests of identification.
 
-Values
+As something that will come to no surprise to folks who work for large organizations, there is commonly a disconnect between the expressed values of the organization and the lived reality of those working for the organization. It is not uncommon for organizations to claim that values like diversity, equity and inclusion _are of critical importance_ to them, but, just below the surface, one can see that there is a lack of supporting action for this claim. This disconnect is often thought of as an act of intentional malice--and I do not doubt this as a factor--but I think that there's more to it than that. Borrowing from a childhood trauma perspective, I think that when those in a position of power and authority make a promise it is not uncommon for it to be a messy way for someone to miscommunicate their hopes. They may want to do what they promise, but they announce that promise before they have the plans for how to make it happen and that haste is often driven by popular discourse. This is not an effort to downplay the pain these actions have caused nor alleviate responsibility for these actions from the powerful decision makers of these organizations, but I believe that in approaching understanding the motivations that can drive this kind of harmful miscommunication I am better able to make suggestions for change that do not put these organizations on the offensive.  
 
-Empathy
-M.A. in Applied Anthropology 2019
-- Specializations were in public health, community organizing, identity, and folklore/storytelling 
+So as to not duplicate my full webpage on [empathy](current_TBR_list) and the modeling of it, I will briefly share that, in the work I’ve done, empathy is about _approaching knowing what another is feeling_, _simulating feeling what another is feeling_, and _communicating compassionately_. I treat empathy as a [metatheoretical approach](methodologies) in my work which means that it shapes the ways that I plan, conduct, and disseminate my work with, by, and for communities. 
 
-B.A. in Women's Studies 2016
-- With minors in Comparative Ethnic Studies and Archaeology
-- Areas of interest were Chicana, Black and Intersectional feminisms; addiction recovery; domestic violence; mental health; and, personal storytelling
+In addition to a wealth of personal experiences, my path has been shaped by the research and programs that I've been part of as well as my academic focuses which were guided by interactions with many people. Early on in my academic career, I dreamed of becoming a botanist with specializations in carnivorous plants and mycology. I had planned that my work would lead me to creating my own multi-climate botanical museum and educational center where people could visit and learn about the many fascinating properties of plants as well as learn about the histories of relationships that people have had with these plants. As I progressed through an Associate of Science degree I hit a bit of a snag related to both poor grades in some difficult classes and the lack of financial aid to support me taking these courses again. It was also at this time that I was taking a course in Interpersonal Communication and decided to pivot from a more scientific approach toward a humanities focus. This lead me to completing an Associates of Arts degree with a focus in Communication Studies, sex education, and domestic violence. 
 
-A.A. 2014
-- Areas of interest were Communication Studies, sex education, and domestic violence
+Upon transferring to my Bachelor’s institution, I was introduced to the disciplines of Women’s Studies and Comparative Ethic Studies which drew me in with promise that I’d get to drill down deeper into the noise that takes place in communication. With those areas of focus, I chose to also pursue a focus in archaeology. The completion of my Bachelor’s in Arts was built upon my interests in Chicana, Black and Intersectional feminisms; addiction recovery; domestic violence; mental health; and personal storytelling as a way of knowing. 
+
+With having been heavily steeped in theories, I left my undergraduate education both wanting to avoid my student loans and wanting to learn how to _do something_ with all the angst and theoretical knowledge I had gained in the last four and a half years. This lead me to pursue a Master of Arts in Applied Anthropology. I initially set out to study archaeology and build on the ideas I was forming about how to create comparative modeling for contemporary and historic violence, but I was strongly encouraged to instead work in socio-cultural and medical anthropology as well as folklore studies. This produced specializations in public health work, community organizing, identity, and folklore/storytelling. 
+
+Still in pursuit of my interest in modeling violence at different levels across time, I am now returning to Communication Studies and find myself within Organizational Communication focusing on infrastructure and physical/digital landscapes; identity; DEI; belonging; expressed organizational values, empathy, and much more!
+
 
 <sup>1</sup> It is critical that _we_ begin to recognize how both the trail of mementos as well as the act of forging ahead are not fully autonomous decisions. Often, our choices are dictated by, as Maslow would convieve of them, base needs like the ability to eat, sleep, and live in a secure shelter. These needs continue to come at a cost under the contemporary socio-political conceptualization of what _life_ looks like. While I value the work that I've done, I do think that it is critical to recognize this major influence on my decision making publically and call on others to do the same. 
 
@@ -34,12 +34,25 @@ A.A. 2014
 _For a complete list of my published work look me up using my ORCiD# 0000-0002-9925-6676_
 
 ### Current Work 
-Data Analyst with LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current 
-- I will be assisting with analyzing and archiving secondary data gathered for this project from different agencies within Ethiopia. 
+__Data Analyst & Manager with__ 
+- Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee  
+- LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
+- LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
+
+__Dissertation__
+-_If these walls could talk_
+
+__Additional Projects__
+- [Emapthy Modeling](current_TBR_list)
+- Video Project for NCA's Disability Accessibility Panel
+
+### Previous Work
+Feminist consultant and Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
+- I provided an intersectional feminist perspective and language during the interpretation and write-up of research.
+- Performed edits and revisions to the paper which has been submitted for NCA 2022.
 
 OCMC, University of Kentucky, Virtual, Presented [“A Community Based Empathetic Scholarship Model”](https://www.youtube.com/watch?v=rodHVoKKnOE) for a Lightning Talk (October 23-24, 2021)
 
-### Previous Work
 Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
 - I assisted in gathering and coding Tweets for inductive thematic analysis.
 - I provided an intersectional feminist perspective and language during the interpretation and write-up of research.
