@@ -31,7 +31,13 @@ Project Assistant with Making Mathematical Reasoning Explicit (a grant funded by
 
 Peer Advocate with Green River Peer Mentoring and Service Learning Program (formerly Connect 2 complete C2C) under Dyane Haynes in Auburn, WA; April 2013- June 2014
 
+### Authorship
+Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
 ### Conference Acceptance
+NCA, New Orleans, LA, co-producer on film for Disability Caucus (November 2022)
+
+Aspen Engaged, Snowmass village, CO, first author on co-authored paper (July-August 2022)
+
 NCA, Seattle, WA, co-authored paper accepted to Feminist and Women’s Studies Division (November 2021)
 
 OCMC, University of Kentucky, Virtual, Presented [“A Community Based Empathetic Scholarship Model”](https://www.youtube.com/watch?v=rodHVoKKnOE) for a Lightning Talk (October 23-24, 2021)
