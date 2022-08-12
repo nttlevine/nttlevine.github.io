@@ -25,7 +25,7 @@ There are a bunch of methods that I have used and several that I'd like to use a
 
 ### Data Management
 
-I've done secondary data and archival data management for projects where I was working to try to blend qualitative and quantitative data into a usable database. Be sure to keep an eye out in the LASER PULSE July newsletter for my blog post about my approach to data management!
+I've done secondary data and archival data management for projects where I was working to try to blend qualitative and quantitative data into a usable database. To read more about my approach to data management check out my article in the July Newletter from _LASER PULSE_ titled ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)!
 
 ### Metatheoretical Approach(es)
 
