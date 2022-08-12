@@ -33,6 +33,7 @@ Peer Advocate with Green River Peer Mentoring and Service Learning Program (form
 
 ### Authorship
 Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
+
 ### Conference Acceptance
 NCA, New Orleans, LA, co-producer on film for Disability Caucus (November 2022)
 
