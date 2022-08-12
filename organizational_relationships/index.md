@@ -10,9 +10,9 @@ If you're interested in learning more, please contact Naomi Levine at naomit.tle
 
 ### Writer's Workshop Group
 
-This is a group of graduate students in the Brian Lamb School of Communication that get together twice a week via Zoom to talk about our writing processes, share our tips for keeping track of those sneaky conference deadlines, and serve as a social obligation which reminds us to keep up with our writing. I founded this group during the Fall Semester of 2020 as a response to the overwhelming isolation of doing academic work that was being exacerbated by the global pandemic of COVID-19. 
+This is a group of graduate students that get together twice a week via Zoom to talk about our writing processes, share our tips for keeping track of those sneaky conference deadlines, and serve as a social obligation which reminds us to keep up with our writing. I founded this group during the Fall Semester of 2020 as a response to the overwhelming isolation of doing academic work that was being exacerbated by the global pandemic of COVID-19. 
 
-We are open to graduate students from all disciplines! Why struggle alone when it's more cathartic to struggle together? Spring Semester 2022 we will be meeting on Mondays and Wednesdays.
+We are open to graduate students from all disciplines! Why struggle alone when it's more cathartic to struggle together? Spring Semester 2022 we met on Mondays and Wednesdays. __THE FALL 2022 SCHEDULE BEING DEVELOPED AS I GET SCHEDULES FROM PEOPLE. MEETINGS WILL BEGIN EITHER THE 2nd OR 3rd WEEK OF THE SEMESTER.__
 
 Here's a list of some of the helpful resources that members have shared that have helped them as they work on improving their relationship to the work of writing and the writing process: 
 - The book ["Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"](https://jamesclear.com/atomic-habits) by James Clear
