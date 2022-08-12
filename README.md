@@ -11,3 +11,19 @@ Broadly, my [research](research) interests are physical & digital infrastructure
 Check out my page on [Methodologies, Data Management & Metatheoretical Approach(es)](methodologies) to learn more about the kind of work I've done, hope to do in the future, and the lens through which I view my role in research and field work. 
   
 In addition to doing research I have ever growing experience with [teaching](teaching) and [art](recent_artwork)!
+
+### Current Work 
+__Consulting__ 
+- Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee  
+- LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
+- LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
+- CRISP with Dr. Seungyoon Lee
+
+__Dissertation__
+
+- Working title: _If These Walls Could Talk_
+
+__Additional Projects__
+- [Emapthy Modeling](/empathy)
+- Video Project for NCA's Disability Accessibility Panel
+- _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
