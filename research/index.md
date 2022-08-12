@@ -31,15 +31,21 @@ Still in pursuit of my interest in modeling violence at different levels across 
 <sup>1</sup> It is critical that _we_ begin to recognize how both the trail of mementos as well as the act of forging ahead are not fully autonomous decisions. Often, our choices are dictated by, as Maslow would convieve of them, base needs like the ability to eat, sleep, and live in a secure shelter. These needs continue to come at a cost under the contemporary socio-political conceptualization of what _life_ looks like. While I value the work that I've done, I do think that it is critical to recognize this major influence on my decision making publically and call on others to do the same. 
 
 ### Select Published Work
+__Academic__
 _For a complete list of my published work look me up using my ORCiD# 0000-0002-9925-6676_
 
+__Other__
+_LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
+
 ### Current Work 
-__Data Analyst & Manager with__ 
+__Consulting__ 
 - Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee  
 - LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
 - LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
+- CRISP with Dr. Seungyoon Lee
 
 __Dissertation__
+
 -_If these walls could talk_
 
 __Additional Projects__
