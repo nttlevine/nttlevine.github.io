@@ -21,6 +21,7 @@ Here's a list of some of the helpful resources that members have shared that hav
 - The app _Focus Keeper_ available on [Apple](https://apps.apple.com/us/app/focus-keeper-time-management/id867374917) or [Android](https://play.google.com/store/apps/details?id=co.pixo.apps.focuskeeper&hl=en_US&gl=US)
 - The app _Rescuetime_ is available for both [MacOS and Windows](https://www.rescuetime.com/) 
 - The video [_8 Productivity Hacks that Changed My Life_](https://www.youtube.com/watch?v=oBMOdWX7K3s) by artist Campbell Walker (a.k.a. Struthless)
+- Even MORE resources from [Dr. Raul Pacheco-Vega](http://www.raulpacheco.org/resources/)
 
 If you are interested in joining, or would like more information, please contact Naomi Levine at naomit.tlevine@gmail.com
 
