@@ -22,6 +22,7 @@ Here's a list of some of the helpful resources that members have shared that hav
 - The app _Rescuetime_ is available for both [MacOS and Windows](https://www.rescuetime.com/) 
 - The video [_8 Productivity Hacks that Changed My Life_](https://www.youtube.com/watch?v=oBMOdWX7K3s) by artist Campbell Walker (a.k.a. Struthless)
 - Even MORE resources from [Dr. Raul Pacheco-Vega](http://www.raulpacheco.org/resources/)
+- The [Hammer Research Repository](https://hammer.purdue.edu/?_ga=2.113103108.1218995459.1664311421-1188452923.1621378956) is home to all submitted theses and disserations of Purdue University Graduate Students.
 
 If you are interested in joining, or would like more information, please contact Naomi Levine at naomit.tlevine@gmail.com
 
