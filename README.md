@@ -17,7 +17,6 @@ __Consulting__
 - Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee  
 - LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
 - LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
-- CRISP with Dr. Seungyoon Lee
 
 __Dissertation__
 
