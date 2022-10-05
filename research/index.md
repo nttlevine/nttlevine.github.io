@@ -34,7 +34,7 @@ Still in pursuit of my interest in modeling violence at different levels across 
 __Academic__
 _For a complete list of my published work look me up using my ORCiD# 0000-0002-9925-6676_
 
-__Other__
+__Other Professional__
 _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
 
 ### Current Work 
@@ -42,7 +42,6 @@ __Consulting__
 - Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee  
 - LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
 - LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
-- CRISP with Dr. Seungyoon Lee
 
 __Dissertation__
 
