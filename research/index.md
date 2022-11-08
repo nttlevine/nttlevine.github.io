@@ -39,13 +39,15 @@ _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.o
 
 ### Current Work 
 __Consulting__ 
-- Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee  
 - LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
 - LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
+- LASER PULSE: Research and Publication Work Group (RPWG) & Capturing the Institutional Memory of the Consortium with Dr. Yuehwern Yih & Pallavi Gupta
+- _Experiences with sexual content in online dating_ with Amanda E. Lilly
+- Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee
 
 __Dissertation__
 
--_If these walls could talk_
+Working title:_If these walls could talk_
 
 __Additional Projects__
 - [Emapthy Modeling](/empathy)
