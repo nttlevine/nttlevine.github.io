@@ -13,10 +13,12 @@ Check out my page on [Methodologies, Data Management & Metatheoretical Approach(
 In addition to doing research I have ever growing experience with [teaching](teaching) and [art](recent_artwork)!
 
 ### Current Work 
-__Consulting__ 
-- Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee  
+__Consulting__   
 - LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
 - LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
+- LASER PULSE: Research and Publication Work Group (RPWG) & Capturing the Institutional Memory of the Consortium with Dr. Yuehwern Yih & Pallavi Gupta
+- _Experiences with sexual content in online dating_ with Amanda E. Lilly
+- Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee
 
 __Dissertation__
 
