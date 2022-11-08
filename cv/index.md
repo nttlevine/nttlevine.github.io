@@ -11,11 +11,15 @@ Green River Community College, September 2012-June 2014 (earned: AA transfer deg
 ### Research & Grant Work
 _For more information on these projects and more see my [Research](https://nt-tl.net/research/) page or find my work using my ORCiD: 0000-0002-9925-6676_
 #### Current 
+Consultant & Researcher with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-Current
+
+Focus Group Co-moderator with "Experiences with sexual content in online dating" at Purdue University with Amanda E. Lilly in West Lafayette, IN; August 2022-Current
+
 Researcher with "Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- Current  
 
 Data Analyst with "Tracking the Process of Treatment Seeking in Breast Cancer Patients" at Purdue University with Yuehwern Yih and Min Lee in West Lafayette, IN; June 2022 to Current 
 
-Data Analyst with LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current 
+Data Analyst with "A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current 
 
 #### Purdue
 Feminist consultant and Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021  
@@ -83,6 +87,7 @@ Student Leadership Award from Green River Community College, 2013
 ### Activities 
 #### Current
 Writer’s Workshop Group; Founder and Facilitator (West Lafayette September 2020-current)
+
 Anti-Racist Reading Group (Purdue Math Department); Co-facilitator (West Lafayette June 2020-current)
 
 #### Purdue
