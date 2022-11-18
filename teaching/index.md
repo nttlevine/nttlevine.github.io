@@ -3,6 +3,15 @@
 
 Naomi is not teaching during the Fall of 2022.
 
+As bonus, Naomi has been working with other graduate students on a couple of G.I.F.T.S. (Great Ideas for Teaching Students) for NCA 2022!
+1. "Using the Big Five Inventory to Examine Identity Concepts": A teaching activity that uses the Big Five Inventory to help students understand identity. This activity uses self-concept and symbolic interactionism theories as a lens. The activity includes having students do outside work to explore how their identity may vary from how they perceive it to how their relationships impact their identity with others. Included in this is how communication behaviors and relational roles impact identity.
+2. "Verbal and Nonverbal Interplay": There is a complex interplay between verbal and nonverbal messages when emotion is involved. While nonverbal cues of heightened emotions may be more difficult to conceal than verbal cues, the factors mentioned above that influence one's appraisal of unexpected nonverbal behavior render both making sense of the behavior and responding to the behavior a complicated and sometimes challenging endeavor. Nonverbal behavior may function in any of the following ways:
+- Complement the verbal message
+- Accent/Emphasize the verbal message
+- Repeat the verbal message
+- Substitute for the verbal message
+- Contradict the verbal message
+
 ### Previous Teaching Assignments
 _COM114: Introduction to Presentational Speaking_
 
