@@ -26,5 +26,5 @@ __Dissertation__
 
 __Additional Projects__
 - [Emapthy Modeling](/empathy)
-- Video Project for NCA's Disability Accessibility Panel
+- NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
 - _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
