@@ -51,7 +51,7 @@ Working title:_If these walls could talk_
 
 __Additional Projects__
 - [Emapthy Modeling](/empathy)
-- Video Project for NCA's Disability Accessibility Panel
+- NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
 
 ### Previous Work
 Feminist consultant and Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
