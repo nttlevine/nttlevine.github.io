@@ -44,9 +44,9 @@ Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://l
 ### Conference Acceptance
 NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
 
-NCA, New Orleans, LA, co-author of "Using the Big Five Inventory to Examine Identity Concepts" for _Great Ideas for Teaching Students (G.I.F.T.S) Session III_(November 2022)
+NCA, New Orleans, LA, co-author of ["Using the Big Five Inventory to Examine Identity Concepts"](https://nt-tl.net/teaching/) for _Great Ideas for Teaching Students (G.I.F.T.S) Session III_(November 2022)
 
-NCA, New Orleans, LA, co-author of "Verbal and Nonverbal Interplay" for _Great Ideas for Teaching Students (G.I.F.T.S) Session III_(November 2022)
+NCA, New Orleans, LA, co-author of ["Verbal and Nonverbal Interplay"](https://nt-tl.net/teaching/) for _Great Ideas for Teaching Students (G.I.F.T.S) Session III_(November 2022)
 
 Aspen Engaged, Snowmass village, CO, first author on co-authored paper (July-August 2022)
 
