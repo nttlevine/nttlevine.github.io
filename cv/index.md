@@ -1,28 +1,32 @@
 ## Naomi's CV
 ### Education
 Purdue University, August 2019-Current (program: PhD in Organizational Communication Studies; ABD as of Fall 2021) 
+Dissertation: "If These Stalls Could Talk"
 
-Indiana University Purdue University Indianapolis, August 2017-October 2019 (earned: Master of Arts in Applied Anthropology) 
+Indiana University Purdue University Indianapolis, August 2017-October 2019 (earned: Master of Arts in Applied Anthropology)
+Thesis: "Grassroots Maternal and Child Health Project: The Origin Stories of Bridge Leaders"
 
 Washington State University, August 2014- May 2016 (President’s Honor Roll & Phi Beta Kappa; earned: Bachelor of Arts in Women’s Studies with minors in Comparative Ethnic Studies & Archaeology)
+Focus: Domestic violence, substance abuse, and storytelling
 
 Green River Community College, September 2012-June 2014 (earned: AA transfer degree)
+Focus: Comprehensive sex education
 
 ### Research & Grant Work
 _For more information on these projects and more see my [Research](https://nt-tl.net/research/) page or find my work using my ORCiD: 0000-0002-9925-6676_
 #### Current 
-Consultant & Researcher with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-Current
-
-Focus Group Co-moderator with "Experiences with sexual content in online dating" at Purdue University with Amanda E. Lilly in West Lafayette, IN; August 2022-Current
-
-Researcher with "Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- Current  
-
-Data Analyst with "Tracking the Process of Treatment Seeking in Breast Cancer Patients" at Purdue University with Yuehwern Yih and Min Lee in West Lafayette, IN; June 2022 to Current 
+Reviewer & Consultant with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-Current
 
 Data Analyst with "A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current 
 
 #### Purdue
-Feminist consultant and Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021  
+Focus Group Co-moderator with "Experiences with sexual content in online dating" at Purdue University with Amanda E. Lilly in West Lafayette, IN; August 2022-November 2022
+
+Researcher with "Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- December 2022  
+
+Data Analyst with "Tracking the Process of Treatment Seeking in Breast Cancer Patients" at Purdue University with Yuehwern Yih and Min Lee in West Lafayette, IN; June 2022- October 2022 
+
+Feminist consultant & Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021  
 Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
 
 #### IUPUI
@@ -36,7 +40,7 @@ Graduate Researcher with Division of Mental Health and Addiction Alcohol and Oth
 Project Assistant with Making Mathematical Reasoning Explicit (a grant funded by NSF) at Washington State University under Libby Knott and Anne Adams in Pullman, WA; June 2015-July 2016 
 
 #### Green River Community College
-Peer Advocate with Green River Peer Mentoring and Service Learning Program (formerly Connect 2 complete C2C) under Dyane Haynes in Auburn, WA; April 2013- June 2014
+Peer Advocate with Green River Peer Mentoring and Service Learning Program (formerly Connect 2 Complete C2C) under Dyane Haynes in Auburn, WA; April 2013- June 2014
 
 ### Authorship
 Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
@@ -58,25 +62,25 @@ Graduates Achieving Inclusion Now (GAIN), Virtual, Moderated Parallel sessions o
 
 ### Teaching
 #### Purdue
-Teaching Assistant for Principles of Interviewing (COM325) at Purdue University under Traci Latoz in West Lafayette, IN; June 2022-August 2022
+Instructor for "Principles of Interviewing" (COM325) at Purdue University under Traci Latoz in West Lafayette, IN; June 2022-August 2022
 
-Teaching Assistant for Introduction to Communication Theory (COM102) at Purdue University under Dr. Glenn Sparks in West Lafayette, IN; January 2020-May 2020, August 2020-December 2020 & August 2021-December 2021 
+Instructor for "Introduction to Communication Theory" (COM102) at Purdue University under Dr. Glenn Sparks in West Lafayette, IN; January 2020-May 2020, August 2020-December 2020 & August 2021-December 2021 
 
-Instructor for Introduction to Organizational Communication (COM324) at Purdue University under Dr. Robin Clair in West Lafayette, IN; August 2020-December 2020 & August 2021-December 2021
+Instructor for "Introduction to Organizational Communication" (COM324) at Purdue University under Dr. Robin Clair in West Lafayette, IN; August 2020-December 2020 & August 2021-December 2021
 
-Instructor for Introduction to Communication Theory (COM102) at Purdue University under Dr. Howard Sypher in West Lafayette, IN; May 2021-June 2021 
+Instructor for "Introduction to Communication Theory" (COM102) at Purdue University under Dr. Howard Sypher in West Lafayette, IN; May 2021-June 2021 
 
-Teaching Assistant for Critical Perspectives in Communication (COM204) at Purdue University under Dr. Josh Boyd in West Lafayette, IN; January 2021-May 2021 
+Teaching Assistant for "Critical Perspectives in Communication" (COM204) at Purdue University under Dr. Josh Boyd in West Lafayette, IN; January 2021-May 2021 
 
-Instructor for Presentational Speaking at Purdue University (COM114) under Dr. Jennifer Hall in West Lafayette, IN; August 2019-August 2020 
+Instructor for "Presentational Speaking" at Purdue University (COM114) at Purdue University under Dr. Jennifer Hall in West Lafayette, IN; August 2019-August 2020 
 
 #### IUPUI
-Teaching Assistant for Low-Wage Labor in a Global Economy (Inside-Out Program) at Indiana University-Purdue University Indianapolis & Dove Recovery House for Women under Dr. Susan Hyatt in Indianapolis, IN; January 2019-May 2019 
+Teaching Assistant for "Low-Wage Labor in a Global Economy" (Inside-Out Program) at Indiana University-Purdue University Indianapolis & Dove Recovery House for Women under Dr. Susan Hyatt in Indianapolis, IN; January 2019-May 2019 
 
 #### Additional Teaching
 Recreational Art Instructor for Purdue Graduate Student Government in West Lafayette, IN; February 2019-November 2021
 
-### Other Experience
+### Other Work Experience
 Book Indexer for Conflict and Peace: Transforming Conflict and Building Peace under Dr. Stacey Connaughton in West Lafayette, IN; November 2020- July 2020
 
 Program Specialist II with Tacoma Community College Workforce Education under Kelli Johnston and Pwint Koko in Tacoma, WA; January 2017-July 2017
@@ -90,12 +94,13 @@ Student Leadership Award from Green River Community College, 2013
 
 ### Activities 
 #### Current
-Writer’s Workshop Group; Founder and Facilitator (West Lafayette September 2020-current)
+Founder and Facilitator of Writer’s Workshop Group (West Lafayette September 2020-current)
 
-Anti-Racist Reading Group (Purdue Math Department); Co-facilitator (West Lafayette June 2020-current)
+Co-Facilitator of Anti-Racist Reading Group in the Purdue University Math Department (West Lafayette June 2020-current)
 
 #### Purdue
 Communication Graduate Student Association; Diverstiy and Inclusion Secretary (West Lafayette August 2021-June 2022)
+
 Voter Registration Volunteer (West Lafayette 2019)
 
 #### IUPUI
@@ -103,7 +108,9 @@ Women4Change Indiana (IUPUI chapter); Community Partner and Volunteer (Indianapo
 
 #### Washington State University
 Disability Visibility Reading Group (WSU via Zoom October 2020)
-Association of Diverse Ability Awareness; Vice-president (Pullman 2016)
+
+Vice President of Association of Diverse Ability Awareness (Pullman 2016)
+
 “Take Back the Night” march to raise domestic violence awareness (Pullman 2014 & 2015)
 
 #### Green River Community College
