@@ -42,6 +42,15 @@ __Comment 3__
 
 You had excellent thoughts about empathy and power in your prelim response which I believe you will further develop. I am also curious to hear more about how you will conceptualize empathy in quantitative research approaches.
 
+__Comment 4__
+*Comments collected from round table presentations at Apen Engaged 2022*
+- Would like to see the development and use of the empathy model in research.
+- “What fields you think it can be applied in?” Fields, outlets, anything.
+- “What value does an empathetic approach add?” It’s a moral imperative. You’re causing harm if you are not empathetic in their work. Imagine if it was your data. One of the greatest barriers in graduate training is operationalizing the concept.
+- “The area where empathy shows up in research often is patient-provider interaction. But it is hard if you do not know the behaviors that can create empathy as an outcome. You might look at that literature and related models. Jasmine’s model in JACR 2019 might be a good resource. It provides a concrete rationale for relationship building.” Jasmine agreed.
+- “One thing I wondered is whether you need a fourth circle in the model – relationship stage is really important. How does power play into this? How would you envision people using this as tool with reflexivity? One possibility could be reflection points for researchers at each stage. ‘Empathic misses’ would be helpful too.” Speaking to power, I use bell hooks (elaborated).
+- “Three dimensions background?” Explained origins of model’s conception of empathy. “I think the approach and design phase is important. How do you account for your own values in the project?
+
 ### Defining Empathy Through Comparison
   When it comes to empathy, I think Zahavi (2014) sums up attempting to pin down a definition for this concept succinctly, “one reason why it continues to be so difficult to reach a commonly accepted definition of empathy is because people have been using the notion to designate quite different phenomena” (152). Despite the multitude of existing conceptualizations that have been put forth about empathy, what I find most difficult about forming my own thoughts on the topic is the muddiness that occurs when considering the many interchangeable terms that are colloquially used in place of empathy. In this paper, I will explore differences between empathy and, associated terms like, sympathy, compassion, humility, and love. After weeding through the, oft, muddied differences, I will propose a conceptualization of empathy that I intend to use in my own work and state a claim in favor of the study of empathy in Communication Studies. 
 
