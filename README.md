@@ -13,18 +13,16 @@ Check out my page on [Methodologies, Data Management & Metatheoretical Approach(
 In addition to doing research I have ever growing experience with [teaching](teaching) and [art](recent_artwork)!
 
 ### Current Work 
-__Consulting__   
-- LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
+__Research & Consulting__    
 - LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
 - LASER PULSE: Research and Publication Work Group (RPWG) & Capturing the Institutional Memory of the Consortium with Dr. Yuehwern Yih & Pallavi Gupta
-- _Experiences with sexual content in online dating_ with Amanda E. Lilly
-- Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee
+
 
 __Dissertation__
 
 - Working title: _If These Walls Could Talk_
 
-__Additional Projects__
+__Recent Projects__
 - [Emapthy Modeling](/empathy)
 - NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
 - _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
