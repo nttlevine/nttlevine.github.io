@@ -12,7 +12,7 @@ If you're interested in learning more, please contact Naomi Levine at naomit.tle
 
 This is a group of graduate students that get together twice a week via Zoom to talk about our writing processes, share our tips for keeping track of those sneaky conference deadlines, and serve as a social obligation which reminds us to keep up with our writing. I founded this group during the Fall Semester of 2020 as a response to the overwhelming isolation of doing academic work that was being exacerbated by the global pandemic of COVID-19. 
 
-We are open to graduate students from all disciplines! Why struggle alone when it's more cathartic to struggle together? __We have concluded all meeting activity for 2022 and will resume meetings in Spring 2023!__ Email me to get added to the roster and receive the link!
+We are open to graduate students from all disciplines! Why struggle alone when it's more cathartic to struggle together? __For Spring 2023 we will be meeting Mondays 2-3pm for our discussion session and Wednesdays 2-5pm for our drop-in co-working session__ Email me to get added to the roster and receive the link!
 
 Here's a list of some of the helpful resources that members have shared that have helped them as they work on improving their relationship to the work of writing and the writing process: 
 - The article ["Teach Writing as a Process Not Product"](https://mwover.files.wordpress.com/2018/05/murray-teach-writing-as-a-process-not-product.pdf) by Donald M. Murray
