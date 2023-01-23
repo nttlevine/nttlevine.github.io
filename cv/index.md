@@ -14,6 +14,9 @@ Focus: Comprehensive sex education
 
 ### Research & Grant Work
 _For more information on these projects and more see my [Research](https://nt-tl.net/research/) page or find my work using my ORCiD: 0000-0002-9925-6676_
+
+Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). doi:10.1177/15248399221151175
+
 #### Current 
 Reviewer & Consultant with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-Current
 
