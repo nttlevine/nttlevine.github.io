@@ -12,30 +12,24 @@ Focus: Domestic violence, substance abuse, and storytelling
 Green River Community College, September 2012-June 2014 (earned: AA transfer degree)
 Focus: Comprehensive sex education
 
-### Research & Grant Work
-_For more information on these projects and more see my [Research](https://nt-tl.net/research/) page or find my work using my ORCiD: 0000-0002-9925-6676_
-
-Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
-
-#### Current 
+#### Purdue
 Reviewer & Consultant with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-Current
 
-Data Analyst with "A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current 
+Data Analyst with "A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current
 
-#### Purdue
-Focus Group Co-moderator with "Experiences with sexual content in online dating" at Purdue University with Amanda E. Lilly in West Lafayette, IN; August 2022-November 2022
+Researcher with "Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- Current
 
-Researcher with "Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- December 2022  
+Focus Group Co-moderator with "Experiences with sexual content in online dating" at Purdue University with Amanda E. Lilly in West Lafayette, IN; August 2022-November 2022 
 
 Data Analyst with "Tracking the Process of Treatment Seeking in Breast Cancer Patients" at Purdue University with Yuehwern Yih and Min Lee in West Lafayette, IN; June 2022- October 2022 
 
-Feminist consultant & Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021  
+Feminist Consultant & Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021  
 Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
 
 #### IUPUI
-Oral Historian and Researcher with Central State Hospital Oral History Project at Indiana University-Purdue University Indianapolis under Dr. Emily Beckman in Indianapolis, IN; September 2018- August 2019 
+Oral Historian & Researcher with Central State Hospital Oral History Project at Indiana University-Purdue University Indianapolis under Dr. Emily Beckman in Indianapolis, IN; September 2018- August 2019 
 
-Storytelling Educator and Researcher with Grassroots Maternal and Child Health Leadership Project at Indiana University-Purdue University Indianapolis under Dr. Jack Turman in Indianapolis, IN; September 2018-May 2019 
+Storytelling Educator & Researcher with Grassroots Maternal and Child Health Leadership Project at Indiana University-Purdue University Indianapolis under Dr. Jack Turman in Indianapolis, IN; September 2018-May 2019 
 
 Graduate Researcher with Division of Mental Health and Addiction Alcohol and Other Drug Prevention Grant at Indiana University-Purdue University Indianapolis under Eric Teske in Indianapolis, IN; October 2017-December 2018 
 
@@ -46,9 +40,15 @@ Project Assistant with Making Mathematical Reasoning Explicit (a grant funded by
 Peer Advocate with Green River Peer Mentoring and Service Learning Program (formerly Connect 2 Complete C2C) under Dyane Haynes in Auburn, WA; April 2013- June 2014
 
 ### Authorship
+Find my academic publications using my ORCiD: 0000-0002-9925-6676_
+
 Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
 
+Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
+
 ### Conference Acceptance
+CSCA, St. Louis, MO, co-authored paper accepted to the Graduate Student Caucus, awarded Top Paper and Paul D. Skalski Award for Top Paper (March 2023)
+
 NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
 
 NCA, New Orleans, LA, co-author of ["Using the Big Five Inventory to Examine Identity Concepts"](https://nt-tl.net/teaching/) for _Great Ideas for Teaching Students (G.I.F.T.S) Session III_(November 2022)
@@ -96,12 +96,11 @@ Nominated for William M. Plater Civic Engagement Medallion from IUPUI, 2018
 Student Leadership Award from Green River Community College, 2013
 
 ### Activities 
-#### Current
+#### Purdue
 Founder and Facilitator of Writer’s Workshop Group (West Lafayette September 2020-current)
 
 Co-Facilitator of Anti-Racist Reading Group in the Purdue University Math Department (West Lafayette June 2020-current)
 
-#### Purdue
 Communication Graduate Student Association; Diverstiy and Inclusion Secretary (West Lafayette August 2021-June 2022)
 
 Voter Registration Volunteer (West Lafayette 2019)
@@ -122,24 +121,3 @@ College Drama Class (2014)
 
 #### Boise State University
 Boise State Model United Nations (2012)
-
-### Conferences Attended
-NCA Seattle, WA (November 2021)
-
-OCMC, University of Kentucky, Virtual (October 2021)
-
-Graduates Achieving Inclusion Now (GAIN), Virtual (September 2021)
-
-Women in Leadership Institute, West Lafayette, IN (March 2021)
-
-Queertopia Northwestern University, Chicago, IL (February 2020)
-
-NCA Baltimore, MD (November 2019)
-
-OCMC, University of Illinois Champagne-Urbana, Champagne-Urbana, IL (October 2019)
-
-Amelia Earhart Summit, Purdue University, West Lafayette, IN (September 2019)
-
-Students of Colour Conference, Yakima, WA (2014)
-
-CUSP Student Leadership Conference, Wenatchee, WA (2013)
