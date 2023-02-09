@@ -40,7 +40,7 @@ __Consulting__
 
 __Dissertation__
 
-Working title:_If these stalls could talk_
+Working title:_If These Stalls Could Talk_ (details forthcoming)
 
 __Additional Projects__
 - [Emapthy Modeling](/empathy)
