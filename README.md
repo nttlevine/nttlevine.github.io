@@ -20,7 +20,7 @@ __Research & Consulting__
 
 __Dissertation__
 
-- Working title: _If These Stalls Could Talk_
+- Working title: _If These Stalls Could Talk_ (more details forthcoming)
 
 __Recent Projects__
 - [Emapthy Modeling](/empathy)
