@@ -14,15 +14,15 @@ This is a group of graduate students that get together twice a week via Zoom to 
 
 We are open to graduate students from all disciplines! Why struggle alone when it's more cathartic to struggle together? __For Spring 2023 we will be meeting Mondays 2-3pm for our discussion session and Wednesdays 2-5pm for our drop-in co-working session__ Email me to get added to the roster and receive the link!
 
-Here's a list of some of the helpful resources that members have shared that have helped them as they work on improving their relationship to the work of writing and the writing process: 
+Here's a list of some of the helpful resources that members have shared that have helped them as they work on improving their relationship to the work of writing and the writing process (I have done my best, with the capacity that I have, to check through these resources to make sure that they are accessible and useful for a diverse audience, but my time is limited; if there are concerns about any of these resources, please, email me): 
 - The article ["Teach Writing as a Process Not Product"](https://mwover.files.wordpress.com/2018/05/murray-teach-writing-as-a-process-not-product.pdf) by Donald M. Murray
 - The video [_8 Productivity Hacks that Changed My Life_](https://www.youtube.com/watch?v=oBMOdWX7K3s) by artist Campbell Walker (a.k.a. Struthless)
 - Even MORE resources from [Dr. Raul Pacheco-Vega](http://www.raulpacheco.org/resources/)
 - The [Hammer Research Repository](https://hammer.purdue.edu/?_ga=2.113103108.1218995459.1664311421-1188452923.1621378956) is home to all submitted theses and disserations of Purdue University Graduate Students.
-- The book ["Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"](https://jamesclear.com/atomic-habits) by James Clear
 - The book ["Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success"](https://wendybelcher.com/writing-advice/writing-your-journal-article-in-twelve/) by Wendy Laura Belcher
 - The app _Focus Keeper_ available on [Apple](https://apps.apple.com/us/app/focus-keeper-time-management/id867374917) or [Android](https://play.google.com/store/apps/details?id=co.pixo.apps.focuskeeper&hl=en_US&gl=US)
 - The app _Rescuetime_ is available for both [MacOS and Windows](https://www.rescuetime.com/) 
+- The video [_How to Accomplish Long Term Projects with ADHD_](https://www.youtube.com/watch?v=OEHD8B33-wc) by the channel How to ADHD
 
 If you are interested in joining, or would like more information, please contact Naomi Levine at naomit.tlevine@gmail.com
 
