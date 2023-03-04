@@ -46,8 +46,10 @@ Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://l
 
 Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
 
-### Conference Acceptance
+### Conference Presentations
 CSCA, St. Louis, MO, co-authored paper accepted to the Graduate Student Caucus, awarded Top Paper and Paul D. Skalski Award for Top Paper (March 2023)
+
+CGSA Graduate Student Conference, Lafayette, IN, G.I.F.T.S: Using Theory and Process to Create Something New (March 2023)
 
 NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
 
@@ -57,12 +59,15 @@ NCA, New Orleans, LA, co-author of ["Verbal and Nonverbal Interplay"](https://nt
 
 Aspen Engaged, Snowmass village, CO, first author on co-authored paper (July-August 2022)
 
+CGSA Graduate Student Conference, Lafayette, IN, Methods: Storytelling Groups (March 2022)
+
 NCA, Seattle, WA, co-authored paper accepted to Feminist and Women’s Studies Division (November 2021)
 
-OCMC, University of Kentucky, Virtual, Presented [“A Community Based Empathetic Scholarship Model”](https://www.youtube.com/watch?v=rodHVoKKnOE) for a Lightning Talk (October 23-24, 2021)
+OCMC, University of Kentucky, Virtual, Presented [“A Community Based Empathetic Scholarship Model”](https://www.youtube.com/watch?v=rodHVoKKnOE) for a Lightning Talk (October 2021)
 
-Graduates Achieving Inclusion Now (GAIN), Virtual, Moderated Parallel sessions on Homophobia & Transphobia and Ableism & Mental Health (September 26th-October 17th, 2021)
+Graduates Achieving Inclusion Now (GAIN), Virtual, Moderated Parallel sessions on Homophobia & Transphobia and Ableism & Mental Health (September-October 2021)
 
+CGSA Graduate Student Conference, Lafayette, IN, Methods: Pile Sorting (March 2021)
 ### Teaching
 #### Purdue
 Instructor for "Principles of Interviewing" (COM325) at Purdue University under Traci Latoz in West Lafayette, IN; June 2022-August 2022
