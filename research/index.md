@@ -30,23 +30,19 @@ Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroo
 __Other Professional Writing__
 _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
 
-### Fall 2022 Work 
-__Consulting__ 
-- LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
-- LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
+### Spring 2023 Work 
+__Research & Consulting__ 
 - LASER PULSE: Research and Publication Work Group (RPWG) & Capturing the Institutional Memory of the Consortium with Dr. Yuehwern Yih & Pallavi Gupta
-- _Experiences with sexual content in online dating_ with Amanda E. Lilly
-- Community Health Partnerships: Tracking the Process of Treatment Seeking in Breast Cancer Patients at Purdue University with Dr. Yuehwern Yih & Min Lee
 
 __Dissertation__
 
 Working title:_If These Stalls Could Talk_ (details forthcoming)
 
 __Additional Projects__
-- [Emapthy Modeling](/empathy)
-- NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
+- LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
+- LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
 
-### Previous Work
+### Highlights in Previous Work
 Feminist consultant and Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
 - I provided an intersectional feminist perspective and language during the interpretation and write-up of research.
 - Performed edits and revisions to the paper which has been submitted for NCA 2022.
