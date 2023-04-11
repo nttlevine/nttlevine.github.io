@@ -18,7 +18,8 @@ Here's a list of some of the helpful resources that members have shared that hav
 - The article ["Teach Writing as a Process Not Product"](https://mwover.files.wordpress.com/2018/05/murray-teach-writing-as-a-process-not-product.pdf) by Donald M. Murray
 - The video [_8 Productivity Hacks that Changed My Life_](https://www.youtube.com/watch?v=oBMOdWX7K3s) by artist Campbell Walker (a.k.a. Struthless)
 - Even MORE resources from [Dr. Raul Pacheco-Vega](http://www.raulpacheco.org/resources/)
-- The [Hammer Research Repository](https://hammer.purdue.edu/?_ga=2.113103108.1218995459.1664311421-1188452923.1621378956) is home to all submitted theses and disserations of Purdue University Graduate Students.
+- The [Hammer Research Repository](https://hammer.purdue.edu/?_ga=2.113103108.1218995459.1664311421-1188452923.1621378956) is home to all submitted theses and disserations of Purdue University Graduate Students
+- The video [_Why you're reading less (my marathon strategy)_] (https://youtu.be/2a5_2OHtHeg) by YouTuber, poet, and former employee of the UK publishing industry Lena Norms
 - The book ["Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success"](https://wendybelcher.com/writing-advice/writing-your-journal-article-in-twelve/) by Wendy Laura Belcher
 - The app _Focus Keeper_ available on [Apple](https://apps.apple.com/us/app/focus-keeper-time-management/id867374917) or [Android](https://play.google.com/store/apps/details?id=co.pixo.apps.focuskeeper&hl=en_US&gl=US)
 - The app _Rescuetime_ is available for both [MacOS and Windows](https://www.rescuetime.com/) 
