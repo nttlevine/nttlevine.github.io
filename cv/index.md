@@ -24,6 +24,7 @@ Focus Group Co-moderator with "Experiences with sexual content in online dating"
 Data Analyst with "Tracking the Process of Treatment Seeking in Breast Cancer Patients" at Purdue University with Yuehwern Yih and Min Lee in West Lafayette, IN; June 2022- October 2022 
 
 Feminist Consultant & Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021  
+
 Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
 
 #### IUPUI
@@ -106,7 +107,7 @@ Founder and Facilitator of Writer’s Workshop Group (West Lafayette September 2
 
 Co-Facilitator of Anti-Racist Reading Group in the Purdue University Math Department (West Lafayette June 2020-current)
 
-Communication Graduate Student Association; Diverstiy and Inclusion Secretary (West Lafayette August 2021-June 2022)
+Diverstiy and Inclusion Secretary for the Communication Graduate Student Association in the Purdue University Brian Lamb School of Communication (West Lafayette August 2021-June 2022)
 
 Voter Registration Volunteer (West Lafayette 2019)
 
