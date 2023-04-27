@@ -1,5 +1,5 @@
 ## Organizational Relationships
-### [Anti-Racist Reading Group](https://www.math.purdue.edu/~bradfoa/antiracist_reading_group/)
+### [Anti-Racist Reading Group](https://www.math.purdue.edu/~bradfoa/antiracist_reading_group/](https://purduemathantiracism.github.io/reading_list)
 _"In a racist society it is not enough to be non-racist, we must be anti-racist." --Angela Davis_
 
 This is a reading group in the Purdue math department that I co-facilitate with [Alden Bradford](https://aldenbradford.com/). The group is focused on antiracism, generally in the world at large and specifically in the realms of math and math education. We strive to maintain an inclusive atmosphere for open discussion, personal growth, and active exploration. Total beginners to antiracism are especially welcome, and you don't have to complete every reading every week to participate.
@@ -12,7 +12,7 @@ If you're interested in learning more, please contact Naomi Levine at naomit.tle
 
 This is a group of graduate students that get together twice a week via Zoom to talk about our writing processes, share our tips for keeping track of those sneaky conference deadlines, and serve as a social obligation which reminds us to keep up with our writing. I founded this group during the Fall Semester of 2020 as a response to the overwhelming isolation of doing academic work that was being exacerbated by the global pandemic of COVID-19. 
 
-We are open to graduate students from all disciplines! Why struggle alone when it's more cathartic to struggle together? __For Spring 2023 we will be meeting Mondays 2-3pm for our discussion session and Wednesdays 2-5pm for our drop-in co-working session__ Email me to get added to the roster and receive the link!
+We are open to graduate students from all disciplines! Why struggle alone when it's more cathartic to struggle together? __Our Summer meeting schedule has yet to be determined.__ Email me to get added to the roster and receive the link!
 
 Here's a list of some of the helpful resources that members have shared that have helped them as they work on improving their relationship to the work of writing and the writing process (I have done my best, with the capacity that I have, to check through these resources to make sure that they are accessible and useful for a diverse audience, but my time is limited; if there are concerns about any of these resources, please, email me): 
 - The article ["Teach Writing as a Process Not Product"](https://mwover.files.wordpress.com/2018/05/murray-teach-writing-as-a-process-not-product.pdf) by Donald M. Murray
