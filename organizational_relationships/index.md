@@ -1,5 +1,5 @@
 ## Organizational Relationships
-### [Anti-Racist Reading Group](https://www.math.purdue.edu/~bradfoa/antiracist_reading_group/](https://purduemathantiracism.github.io/reading_list)
+### [Anti-Racist Reading Group](https://purduemathantiracism.github.io/reading_list)
 _"In a racist society it is not enough to be non-racist, we must be anti-racist." --Angela Davis_
 
 This is a reading group in the Purdue math department that I co-facilitate with [Alden Bradford](https://aldenbradford.com/). The group is focused on antiracism, generally in the world at large and specifically in the realms of math and math education. We strive to maintain an inclusive atmosphere for open discussion, personal growth, and active exploration. Total beginners to antiracism are especially welcome, and you don't have to complete every reading every week to participate.
