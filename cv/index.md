@@ -97,6 +97,8 @@ Program Specialist II with Tacoma Community College Workforce Education under Ke
 International Friend with International Cup of Tea under Steven (Monk) Wells in Boise, ID; Spring Semester 2012 (service-learning volunteer) 
 
 ### Accolades
+Won _Best Blog Content_ at the Gold Carpet Gala for ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/) from Purdue University, 2023
+
 Nominated for William M. Plater Civic Engagement Medallion from IUPUI, 2018
 
 Student Leadership Award from Green River Community College, 2013
