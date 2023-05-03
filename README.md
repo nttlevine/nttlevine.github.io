@@ -21,7 +21,8 @@ __Dissertation__
 
 - Working title: _If These Stalls Could Talk_ (more details forthcoming)
 
-__Recent Projects__
+__Recent Projects & Happenings__
+- Won award for _Best Blog Content_ at the Gold Carpet Gala, April 2023, for ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
 - [Emapthy Modeling](/empathy)
 - NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
 - _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
