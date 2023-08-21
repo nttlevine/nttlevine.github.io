@@ -1,19 +1,21 @@
 ## Naomi's CV
 ### Education
-Purdue University, August 2019-Current (program: PhD in Organizational Communication Studies; ABD as of Fall 2021) 
-Dissertation: "If These Stalls Could Talk"
+Purdue University, August 2019-August 2023 (earned: PhD in Organizational Communication Studies) 
+Dissertation: "If these stalls could talk: Organizational invitations to identification evoking a user's sense of belonging as communicated through infrastructure"
 
-Indiana University Purdue University Indianapolis, August 2017-October 2019 (earned: Master of Arts in Applied Anthropology)
+Indiana University Purdue University Indianapolis, August 2017-October 2019 (earned: MA in Applied Anthropology)
 Thesis: "Grassroots Maternal and Child Health Project: The Origin Stories of Bridge Leaders"
 
-Washington State University, August 2014- May 2016 (President’s Honor Roll & Phi Beta Kappa; earned: Bachelor of Arts in Women’s Studies with minors in Comparative Ethnic Studies & Archaeology)
+Washington State University, August 2014- May 2016 (President’s Honor Roll & Phi Beta Kappa; earned BA in Women’s Studies with minors in Comparative Ethnic Studies & Archaeology)
 Focus: Domestic violence, substance abuse, and storytelling
 
 Green River Community College, September 2012-June 2014 (earned: AA transfer degree)
 Focus: Comprehensive sex education
 
+### Post-Grad Employment
+Scientific Research Manager with LASER PULSE at Purdue University with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; August 2023-Current
 #### Purdue
-Reviewer & Consultant with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-Current
+Reviewer & Consultant with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-August 2023
 
 Data Analyst with "A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current
 
