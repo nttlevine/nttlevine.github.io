@@ -11,9 +11,9 @@ There are a bunch of methods that I have used and several that I'd like to use a
 - Inductive Thematic Analysis 
 - Survey Development and Analysis
 - Lite Descriptive Statistics
-- Autoethnography (in forthcoming dissertation)
-- Landscape Archaeology (in forthcoming dissertation)
-- Measuring clock versus percieved time (method developed for forthcoming dissertation)
+- Autoethnography
+- Landscape Archaeology
+- Measuring clock versus percieved time (method developed for dissertation)
 
 ### Methods I Would Like to Try
 
