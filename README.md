@@ -6,7 +6,7 @@ Broadly, my [research](research) interests are physical infrastructure & materia
 
 Previous work has connected me with public health, international development and conflict, alcohol and other drug prevention and recovery, medical history, education and accessibility, deinstitutionalization and prison abolition, and grassroots community organizing. 
 
-Some of my ongoing work has been focused on defining empathy for the purposes of making it actionable in research as a metatheoretical framework and [building a model](https://www.youtube.com/watch?v=rodHVoKKnOE) for describing what empathy could look like in different types of research. For more deatils see [Modeling Empathy](/empathy) and learn more about the current state of the model, plans for growing the model, and the latest comments schoalrs have shared with me about this model. 
+Some of my ongoing work has been focused on defining empathy for the purposes of making it actionable in research as a metatheoretical framework and [building a model](https://www.youtube.com/watch?v=rodHVoKKnOE) for describing what empathy could look like in different types of research. For more details see [Modeling Empathy](/empathy) and learn more about the current state of the model, plans for growing the model, and the latest comments scholars have shared with me about this model. 
 
 Go to my page on [Organizational Relationships](organizational_relationships) to learn more about organizations that I have been part of and that I am currently affiliated with! 
 
