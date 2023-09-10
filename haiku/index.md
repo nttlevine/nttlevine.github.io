@@ -1,5 +1,7 @@
 ## [Alphabet Superset](https://www.alphabetsuperset.com/): Haiku
-### __A__larm Clock
-WHO? wHat da<code>&#8212;</code>When?--oh...
+### __A__ larm Clock
+WHO? wHat da--When?--oh...
+
 DAMN OUT-OF-BODY ALERT!
+
 --i'm safe.--i'm alive...
