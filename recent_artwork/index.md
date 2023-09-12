@@ -3,6 +3,8 @@ I am a self-taught mixed media artist. I commonly work with recycled and repurpo
 
 I hosted Paint Nights for the Purdue Graduate Student Government from February 2019 through November 2021. This event was routinely fully booked with a long waitlist as it had been incredibly popular. During COVID-19 we switched to an online format for a few of our events with positive feedback from participants. 
 
+I also do [poetry](haiku)! I do not currently sell any of my art work nor do I take commission. 
+
 ### Taking Off My Eyeballs
 ![glasses](glasses.png)
 
