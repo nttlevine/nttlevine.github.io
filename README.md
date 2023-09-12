@@ -14,7 +14,7 @@ To keep up with my latest work, look at my [Curriculum Vitae](cv)!
   
 Check out my page on [Methodologies, Data Management & Metatheoretical Approach(es)](methodologies) to learn more about the kind of work I've done, hope to do in the future, and the lens through which I view my role in research and field work. 
   
-In addition to doing research I have ever growing experience with [teaching](teaching) and [art](recent_artwork)!
+In addition to doing research I have ever growing experience with [poetry](haiku), [teaching](teaching) and [art](recent_artwork)!
 
 ### Current Work 
 __Scientific Research Manager__    
