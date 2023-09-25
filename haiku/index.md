@@ -12,4 +12,9 @@ Plastic lost? Go METAL!
 Why buy new? SAVE! Have style NOW!  
 Pinch, grip, clamp and GLAM!  
 
-### C (TBD)
+### [C](https://i.ebayimg.com/images/g/9i0AAOSwoVNaMnZd/s-l1600.jpg)arpet
+Plush city streets sprawl  
+textrued knees crawl; me and town  
+incorporated.  
+
+### [D] (TBD)
