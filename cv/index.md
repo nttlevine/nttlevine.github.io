@@ -45,6 +45,8 @@ Peer Advocate with Green River Peer Mentoring and Service Learning Program (form
 ### Authorship
 Find my academic publications using my ORCiD: 0000-0002-9925-6676_
 
+Blog Post, _LASER PULSE_, ["Tips for Writing Your Upcoming Report"](https://laserpulse.org/2023/09/tips-for-writing-your-upcoming-report/) 
+
 Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
 
 Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
