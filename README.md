@@ -21,10 +21,10 @@ __Scientific Research Manager__
 - LASER PULSE: Research and Publication Work Group (RPWG), Project Management, and orgnaizational research supervised by Dr. Yuehwern Yih & Pallavi Gupta
 
 __Recent Projects & Happenings__
+- _LASER PULSE_ blog post, ["Tips for Writing Your Upcoming Report"](https://laserpulse.org/2023/09/tips-for-writing-your-upcoming-report/) published September 2023
 - Won award for _Best Blog Content_ at the Gold Carpet Gala, April 2023, for ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
 - [Emapthy Modeling](/empathy)
 - NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
-- _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
 - Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
 
   __If you are interested in contracting work from or collaborating with Dr. Levine, email her/them at naomit.tlevine@gmail.com__
