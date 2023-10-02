@@ -18,8 +18,8 @@ textrued knees crawl; me and town
 incorporated.  
 
 ### [D](https://www.youtube.com/watch?v=RcWxQUMLsLA)oor
-securing within
-safe from imagined outside
+securing within  
+safe from imagined outside  
 insiders trapped. safe?   
 
 ### [E] (Coming 10/15)
