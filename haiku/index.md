@@ -17,4 +17,9 @@ Plush city streets sprawl
 textrued knees crawl; me and town  
 incorporated.  
 
-### [D] (TBD)
+### [D](https://www.youtube.com/watch?v=RcWxQUMLsLA)oor
+securing within
+safe from imagined outside
+insiders trapped. safe?   
+
+### [E] (Coming 10/15)
