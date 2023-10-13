@@ -22,4 +22,4 @@ securing within
 safe from imagined outside  
 insiders trapped. safe?   
 
-### [E] (Coming 10/15)
+### [E](https://en.wikipedia.org/wiki/Eraser)https://en.wikipedia.org/wiki/Eraser)raser
