@@ -22,4 +22,9 @@ securing within
 safe from imagined outside  
 insiders trapped. safe?   
 
-### [E](https://en.wikipedia.org/wiki/Eraser)raser
+### [E](https://i.pinimg.com/originals/b7/be/c0/b7bec0a2e7f2ba5e1ceacde588c25f8c.jpg)raser
+Fiction pantomimed  
+If ever written never  
+unwritten; Just smeared  
+
+### [F] (Due 10/22)
