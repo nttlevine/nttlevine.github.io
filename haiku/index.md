@@ -27,4 +27,9 @@ Fiction pantomimed
 If ever written never  
 unwritten; Just smeared  
 
-### [F] (Due 10/22)
+### [F](https://youtube.com/playlist?list=PL8ft6JOqtoYDjKL2mJlli-4EARw94b2FZ&si=eZyKzJ_sEWh9q5lr)ile Explorer
+#rAnd0m path  
+emo skeuomorph headge maze  
+lawl XD files  
+
+###[G] (Due 10/29)
