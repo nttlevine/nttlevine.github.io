@@ -32,4 +32,19 @@ unwritten; Just smeared
 emo skeuomorph headge maze  
 lawl XD files  
 
-###[G] (Due 10/29)
+### [G](https://kagi.com/proxy/pb4ub6hf3m101.jpg?c=TklOzPjLPioJ5YMJT75bSos4cJZ7rZU-jmaMQg33DqvstZq3C6p8LK7q4PCs7Soy)el pen
+<font color="red">red</font>, <fint color="blue">blue</font>, black, GLItTeR  
+over, over & OVER  
+repeating <font color="red">r</font><font color= "orange">a</font><font color="yellow">i</font><font color="green">n</font><font color="blue">b</font><font color="purple">o</font>w  
+
+### [H](https://www.youtube.com/watch?v=-6pbbtLUwf8)airbrush
+50 pencil tips   
+erase coil'd wave; calm water  
+leads snap one-by-one  
+
+### [I](https://www.reddit.com/r/forbiddensnacks/comments/7r9ywf/cotton_candy_insulation/)nsulation
+inedible treat  
+candy flossed fiberglass  
+jolly pink toxin  
+
+### [J] (Due 11/26)
