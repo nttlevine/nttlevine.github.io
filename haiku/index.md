@@ -47,4 +47,9 @@ inedible treat
 candy flossed fiberglass  
 jolly pink toxin  
 
-### [J] (Due 11/26)
+### [J](https://www.youtube.com/watch?v=PlbbLkljZMM)ournal
+I wear my heart on   
+the pages I lock away  
+from your nosey gaze
+
+### [K] (Coming 12/3)
