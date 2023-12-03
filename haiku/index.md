@@ -52,4 +52,9 @@ I wear my heart on
 the pages I lock away  
 from your nosey gaze
 
-### [K] (Coming 12/3)
+### [K](https://7collection.com/products/slurpee%C2%AE-key-chain)ey Chain
+FRANTIC! riffiling..? hands?  
+grasping..? furious..? UNTIL!  
+Familiar charm!
+
+### [L] (coming 12/10)
