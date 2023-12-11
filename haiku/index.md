@@ -59,5 +59,5 @@ Familiar charm!
 
 ### [L](https://www.youtube.com/watch?v=njsCKuN8Fsw)amp Post
 <font color= "green">to be her at nite</font>  
-...Beacon of Belongingness...  
-<font color= "green">or not to be here?</font>
+...Beacon of Belongingness...
+<font color= "red">or not to be here?</font>
