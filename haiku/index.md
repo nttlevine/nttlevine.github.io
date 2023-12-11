@@ -57,4 +57,7 @@ FRANTIC! riffiling..? hands?
 grasping..? furious..? UNTIL!  
 Familiar charm!
 
-### [L] (coming 12/10)
+### [L](https://www.youtube.com/watch?v=njsCKuN8Fsw)amp Post
+<font color= "green">to be her at nite</font>  
+...Beacon of Belongingness...  
+<font color= "green">or not to be here?</font>
