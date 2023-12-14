@@ -59,7 +59,8 @@ Familiar charm!
 
 ### [L](https://www.youtube.com/watch?v=njsCKuN8Fsw)amp Post
 <font color= "green">to be her at nite</font>  
-...Beacon of Belongingness...             <font color= "red">or not to be here?</font>
+...Beacon of Belongingness...             
+<font color= "red">or not to be here?</font>
 
 ### [M](https://www.youtube.com/watch?v=Lm50mtea3ZM)atches
 Once struck. __no...__ Twice? Thrice?!  
