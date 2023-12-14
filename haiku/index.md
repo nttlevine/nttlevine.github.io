@@ -62,6 +62,6 @@ Familiar charm!
 ...Beacon of Belongingness...             <font color= "red">or not to be here?</font>
 
 ### [M](https://www.youtube.com/watch?v=Lm50mtea3ZM)atches
-Once struck. __no...__ Twice? Thrice?!
+Once struck. __no...__ Twice? Thrice?!  
 CRACK; SNAP!! __More.__ Again? Again!  
 ..._Once struck?_ Twice? Thrice?! __FOUR?!?!__
