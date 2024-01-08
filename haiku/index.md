@@ -66,3 +66,8 @@ Familiar charm!
 Once struck. __no...__ Twice? Thrice?!  
 CRACK; SNAP!! __More.__ Again? Again!  
 ..._Once struck?_ Twice? Thrice?! __FOUR?!?!__
+
+### [N](https://www.youtube.com/watch?v=vZ9myHhpS9s)otebook paper
+ripping our knowledge  
+pulling off the frilly bit  
+exposed scratch throughts; shame.  
