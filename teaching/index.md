@@ -1,18 +1,10 @@
 ## Teaching
 ### Current Assignment
 
-Naomi will not be teaching in the near future.
+Naomi will not be teaching in the near future as she is now a Scientific Research Manager for PARI-GDI on the LASER PULSE Program.
 
-However, Naomi has been working with other graduate students on a couple of G.I.F.T.S. (Great Ideas for Teaching Students) for NCA 2022!
-1. "Using the Big Five Inventory to Examine Identity Concepts": A teaching activity that uses the Big Five Inventory to help students understand identity. This activity uses self-concept and symbolic interactionism theories as a lens. The activity includes having students do outside work to explore how their identity may vary from how they perceive it to how their relationships impact their identity with others. Included in this is how communication behaviors and relational roles impact identity.
-2. "Verbal and Nonverbal Interplay": There is a complex interplay between verbal and nonverbal messages when emotion is involved. While nonverbal cues of heightened emotions may be more difficult to conceal than verbal cues, the factors mentioned above that influence one's appraisal of unexpected nonverbal behavior render both making sense of the behavior and responding to the behavior a complicated and sometimes challenging endeavor. Nonverbal behavior may function in any of the following ways:
-- Complement the verbal message
-- Accent/Emphasize the verbal message
-- Repeat the verbal message
-- Substitute for the verbal message
-- Contradict the verbal message
+This page holds information about previous teaching experience, Naomi's teaching philosophy & praxis, as well as some notes on work she's contributed to in order to share innovations in teaching with others.
 
-Additionally, Naomi has also submitted a G.I.F.T.S. for NCA 2023 and will share more once she knows whether or not it has been accepted to the conference.
 
 ### Previous Teaching Assignments
 _COM114: Introduction to Presentational Speaking_
@@ -73,3 +65,14 @@ Students learn best when they are allowed to explore their individualized learni
 
 In my own classrooms, I have seen the pursuit of these goals result in rich discussion among my students where they appeared to feel confident in taking risks with the questions and connections they shared. This in-class behavior has led students to submit written assignments that demonstrate a deep and nuanced text of understanding of the material through inventive connections and well supported claims. I sincerely believe that fostering a space and mindset of philosophical play, radical imagination, and vulnerable interrogation are great boons to student success and intellectual fulfillment.
 
+### G.I.F.T.S. (Great Ideas for Teaching Students) 
+
+These are from NCA 2022! I collaborated on these with Dr. Grace Lee and Dr. Amanda Lilly.
+
+1. "Using the Big Five Inventory to Examine Identity Concepts": A teaching activity that uses the Big Five Inventory to help students understand identity. This activity uses self-concept and symbolic interactionism theories as a lens. The activity includes having students do outside work to explore how their identity may vary from how they perceive it to how their relationships impact their identity with others. Included in this is how communication behaviors and relational roles impact identity.
+2. "Verbal and Nonverbal Interplay": There is a complex interplay between verbal and nonverbal messages when emotion is involved. While nonverbal cues of heightened emotions may be more difficult to conceal than verbal cues, the factors mentioned above that influence one's appraisal of unexpected nonverbal behavior render both making sense of the behavior and responding to the behavior a complicated and sometimes challenging endeavor. Nonverbal behavior may function in any of the following ways:
+- Complement the verbal message
+- Accent/Emphasize the verbal message
+- Repeat the verbal message
+- Substitute for the verbal message
+- Contradict the verbal message
