@@ -2,7 +2,7 @@
 ### Evolution of Interests
 I do not tend to focus on having a set career goal that I am working toward when I choose projects to participate in, topics to spend hours digging into, or work I put out for others to consider; however, I do regularly choose to reflect upon the trail of mementos that I have left behind me as I forged ahead<sup>1</sup>.
 
-Currently, my areas of interest, as a PhD candidate in Organizational Communication are:
+Some of my areas of interest are:
 - Physical infrastructure and materiality as text through which organizations communicate
 - Diversity, equity and inclusion
 - Identification and belonging
@@ -23,25 +23,34 @@ So as to not duplicate my full webpage on [empathy](/empathy) and the modeling o
 <sup>1</sup> It is critical that _we_ begin to recognize how both the trail of mementos as well as the act of forging ahead are not fully autonomous decisions. Often, our choices are dictated by, as Maslow would convieve of them, base needs like the ability to eat, sleep, and live in a secure shelter. These needs continue to come at a cost under the contemporary socio-political conceptualization of what _life_ looks like. While I value the work that I've done, I do think that it is critical to recognize this major influence on my decision making publically and call on others to do the same. 
 
 ### Select Published Work
-__Academic__
+__Dissertation__
+
+My dissertation is under embargo until August 2024. Please email me details about your interest in my work if you would like to read an advance copy of my work.
+
+_If These Stalls Could Talk: If these stalls could talk: Organizational invitations to identification evoking a user’s sense of belonging as communicated through infrastructure_
+
+__Abstract:__ 
+
+Organizations communicate messages to users of their physical spaces via artifacts and features that compose the spaces. I argue that these infrastructural messages are invitations to users to identify with the organization. I argue further that an individual’s experience of these messages—via user experience—may (or may not) evoke a sense of belonging. In order to explore what it looks like for a user to feel like they (do not) belong, this autoethnographic study explores the different infrastructural messages within the public bathrooms of 70 buildings on Purdue University’s main campus in West Lafayette, Indiana. 
+
+The main research question for this study is: how do public bathrooms, as a part of the physical infrastructure of an organization, communicate belonging through user experience in them? To explore this question, concepts of identification, belonging, physical space, and time were important to explicate. Identification looks at what it means to identify with an organization and ways that individuals have been invited to identify with the organization by the organization. This study further examines how one feels about an organization that they identify with by looking at one’s sense of belonging to a space. Consideration of space brought considerations about affordances, user experience, and hostile architecture. Finally, an exploration of time aided this work in developing a means by which to investigate the relationship between measured and perceived time when navigating physical space under distress. 
+
+This autoethnography offers a deep perspective of one user’s (my) experience within the bathrooms. Additionally, this work employed the use of land surveying from landscape archaeology (e.g., examination of constituent parts of the bathrooms), user experience field notes (e.g., collection of unique aspects of each bathroom as well as detailed experience reflections), and a unique methodological tool for collecting and comparing measured and perceived time.  
+
+Analysis of data collected based on a combination of these methods showed that how—beyond available affordances and barriers—the bathroom is used by an organizational member holds importance. Spatial design and navigational artifacts which can reduce the measured time for locating a bathroom are noticeable relative to the user’s experience of time (i.e., perceived time) to a point. However, when the user’s perception of time becomes less reliable, perceived distress seems to be the main feature coloring this experience. Therefore, spaces which challenge users physically and emotionally are not likely to be received as an invitation to members’ identification with that organization. Such messages impacted members’ sense of belonging to the organization. Further, through land surveying data of the artifacts and features of bathrooms combined with secondary data on building ages, this study assessed the University’s assumptions about the different type of bodies and needs that are present among their organizational members.
+
+Theoretically, this work contributes a conceptual framework for belonging, fieldwork at the intersection of space and belonging, and a fat body taking up space within the literature. Methodologically, this work provides an innovative way of documenting time, a look at self-accommodation in research for scholars with disabilities, a demonstration of the use of embodied measurement, and a critique for user-centered and participatory design. In sum, this study illuminates what it was like for one fat body to try to meet her needs and reflect on how this impacted her sense of belonging to the University. This work has implications for further development of public bathrooms locally on Purdue’s campus as well as for scholarly inquiry about the relationships among organizational identification, belonging, user experience, and design of spaces. 
+
+__Peer Reviewed Journal__
+
 _For a complete list of my published work look me up using my ORCiD# 0000-0002-9925-6676_
 
 Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
 
-__Other Professional Writing__
-_LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
+__Other Professional Writing/Conference Work__  
+_LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/) **I won an award for this! _Best Blog Content_ at the Gold Carpet Gala, April 2023**
 
-### Spring 2023 Work 
-__Research & Consulting__ 
-- LASER PULSE: Research and Publication Work Group (RPWG) & Capturing the Institutional Memory of the Consortium with Dr. Yuehwern Yih & Pallavi Gupta
-
-__Dissertation__
-
-Working title:_If These Stalls Could Talk_ (details forthcoming)
-
-__Additional Projects__
-- LASER PULSE: Asia Disaster Preparedness Center at Purdue University with Dr. Stacey Connaughton 
-- LASER PULSE: Ethiopia Resilience at Purdue University with Dr. Stacey Connaughton
+NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
 
 ### Highlights in Previous Work
 Feminist consultant and Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
