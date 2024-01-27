@@ -18,6 +18,7 @@ __Scientific Research Manager__
 
 __Recent Projects & Happenings__  
 - I am working with collaborators on a publication for a special issue of Development in Practice!
+- _LASER PULSE_ blog post, ["Contextualizing Deliverables: Policy Briefs"](https://laserpulse.org/2024/01/contextualizing-deliverables-policy-briefs/) published January 2024
 - _LASER PULSE_ blog post, ["Tips for Writing Your Upcoming Report"](https://laserpulse.org/2023/09/tips-for-writing-your-upcoming-report/) published September 2023
 - [Emapthy Modeling](/empathy) the ongoing background project that is not moving very quickly.
 
