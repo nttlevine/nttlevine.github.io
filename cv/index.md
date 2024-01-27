@@ -13,9 +13,9 @@ Green River Community College, September 2012-June 2014 (earned: AA transfer deg
 Focus: Comprehensive sex education
 
 ### Post-Grad Employment
-Scientific Research Manager with LASER PULSE at Purdue University with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; August 2023-Current
+Scientific Research Manager with LASER PULSE at PARI-GDI with Dr. Ginger Bolen in West Lafayette, IN (Remote Work); August 2023-Current
 #### Purdue
-Reviewer & Consultant with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-August 2023
+Research Reviewer with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-August 2023
 
 Data Analyst with "A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current
 
@@ -45,9 +45,11 @@ Peer Advocate with Green River Peer Mentoring and Service Learning Program (form
 ### Authorship
 Find my academic publications using my ORCiD: 0000-0002-9925-6676_
 
-Blog Post, _LASER PULSE_, ["Tips for Writing Your Upcoming Report"](https://laserpulse.org/2023/09/tips-for-writing-your-upcoming-report/) 
+Blog Post, _LASER PULSE_, ["Contextualizing Deliverables: Policy Briefs"](https://laserpulse.org/2024/01/contextualizing-deliverables-policy-briefs/) (January 2024) 
 
-Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/)
+Blog Post, _LASER PULSE_, ["Tips for Writing Your Upcoming Report"](https://laserpulse.org/2023/09/tips-for-writing-your-upcoming-report/) (September 2023)
+
+Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/) (July 2022)
 
 Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
 
@@ -56,7 +58,7 @@ CSCA, St. Louis, MO, co-authored paper accepted to the Graduate Student Caucus, 
 
 CGSA Graduate Student Conference, Lafayette, IN, G.I.F.T.S: Using Theory and Process to Create Something New (March 2023)
 
-NCA, New Orleans, LA, co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
+NCA, New Orleans, LA (virtual), co-producer of ["Remote Access and Accessibility: An Accessible Video"](https://www.youtube.com/watch?v=oEXz5LoXmtM) for _The Accessible Panel Project: Exploring and Practicing Possibilities_(November 2022)
 
 NCA, New Orleans, LA, co-author of ["Using the Big Five Inventory to Examine Identity Concepts"](https://nt-tl.net/teaching/) for _Great Ideas for Teaching Students (G.I.F.T.S) Session III_(November 2022)
 
@@ -68,7 +70,7 @@ CGSA Graduate Student Conference, Lafayette, IN, Methods: Storytelling Groups (M
 
 NCA, Seattle, WA, co-authored paper accepted to Feminist and Women’s Studies Division (November 2021)
 
-OCMC, University of Kentucky, Virtual, Presented [“A Community Based Empathetic Scholarship Model”](https://www.youtube.com/watch?v=rodHVoKKnOE) for a Lightning Talk (October 2021)
+OCMC, University of Kentucky (virtual), Presented [“A Community Based Empathetic Scholarship Model”](https://www.youtube.com/watch?v=rodHVoKKnOE) for a Lightning Talk (October 2021)
 
 Graduates Achieving Inclusion Now (GAIN), Virtual, Moderated Parallel sessions on Homophobia & Transphobia and Ableism & Mental Health (September-October 2021)
 
