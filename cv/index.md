@@ -17,9 +17,9 @@ Scientific Research Manager with LASER PULSE at PARI-GDI with Dr. Ginger Bolen i
 #### Purdue
 Research Reviewer with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-August 2023
 
-Data Analyst with "A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current
+Data Analyst with ["A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks"](https://laserpulse.org/portfolio/resilience-of-ethiopian-communities/) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current
 
-Researcher with "Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region" via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- Current
+Researcher with ["Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region"](https://www.adpc.net/igo/contents/Media/media-news.asp?pid=1853&Topic=) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- Current
 
 Focus Group Co-moderator with "Experiences with sexual content in online dating" at Purdue University with Amanda E. Lilly in West Lafayette, IN; August 2022-November 2022 
 
@@ -32,12 +32,12 @@ Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at 
 #### IUPUI
 Oral Historian & Researcher with Central State Hospital Oral History Project at Indiana University-Purdue University Indianapolis under Dr. Emily Beckman in Indianapolis, IN; September 2018- August 2019 
 
-Storytelling Educator & Researcher with Grassroots Maternal and Child Health Leadership Project at Indiana University-Purdue University Indianapolis under Dr. Jack Turman in Indianapolis, IN; September 2018-May 2019 
+Storytelling Educator & Researcher with [Grassroots Maternal and Child Health Leadership Project](https://medicine.iu.edu/pediatrics/specialties/health-services/grassroots-maternal-child-health) at Indiana University-Purdue University Indianapolis under Dr. Jack Turman in Indianapolis, IN; September 2018-May 2019 
 
 Graduate Researcher with Division of Mental Health and Addiction Alcohol and Other Drug Prevention Grant at Indiana University-Purdue University Indianapolis under Eric Teske in Indianapolis, IN; October 2017-December 2018 
 
 #### Washington State University
-Project Assistant with Making Mathematical Reasoning Explicit (a grant funded by NSF) at Washington State University under Libby Knott and Anne Adams in Pullman, WA; June 2015-July 2016 
+Project Assistant with [Making Mathematical Reasoning Explicit](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1050397) (a grant funded by NSF) at Washington State University under Libby Knott and Anne Adams in Pullman, WA; June 2015-July 2016 
 
 #### Green River Community College
 Peer Advocate with Green River Peer Mentoring and Service Learning Program (formerly Connect 2 Complete C2C) under Dyane Haynes in Auburn, WA; April 2013- June 2014
