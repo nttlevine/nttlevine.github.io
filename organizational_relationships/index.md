@@ -48,7 +48,7 @@ Here's a list of some of the helpful resources that members shared which helped 
 - The app _Rescuetime_ is available for both [MacOS and Windows](https://www.rescuetime.com/) 
 - The video [_How to Accomplish Long Term Projects with ADHD_](https://www.youtube.com/watch?v=OEHD8B33-wc) by the channel How to ADHD
 
-### [Grassroots Maternal and Child Health Initiative](https://fsph.iupui.edu/research-centers/centers/cheer/grassroots/index.html)
+### [Grassroots Maternal and Child Health Initiative](https://medicine.iu.edu/pediatrics/specialties/health-services/grassroots-maternal-child-health)
 
 Mission: Build the capacity of community members and organizations to bring about systems change that improves maternal and child health outcomes in marginalized neighborhoods.
 
