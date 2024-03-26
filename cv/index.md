@@ -44,6 +44,7 @@ Peer Advocate with Green River Peer Mentoring and Service Learning Program (form
 
 ### Authorship
 Find my academic publications using my ORCiD: 0000-0002-9925-6676_
+Blog Post, _LASER PULSE_, ["So Much to Say: Tips for Shortening Your Policy Brief"](https://laserpulse.org/2024/03/so-much-to-say-tips-for-shortening-your-policy-brief/) (March 2024)
 
 Blog Post, _LASER PULSE_, ["Contextualizing Deliverables: Policy Briefs"](https://laserpulse.org/2024/01/contextualizing-deliverables-policy-briefs/) (January 2024) 
 
@@ -53,7 +54,9 @@ Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://l
 
 Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
 
-### Conference Presentations
+### Professional Presentations
+_LASER Focused_ co-facilitation, ["Policy Brief Overview"](https://laserpulse.org/laser-focused-policy-brief-overview/) presented February 2024
+
 CSCA, St. Louis, MO, co-authored paper accepted to the Graduate Student Caucus, awarded Top Paper and Paul D. Skalski Award for Top Paper (March 2023)
 
 CGSA Graduate Student Conference, Lafayette, IN, G.I.F.T.S: Using Theory and Process to Create Something New (March 2023)
