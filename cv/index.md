@@ -43,7 +43,7 @@ Project Assistant with [Making Mathematical Reasoning Explicit](https://www.nsf.
 Peer Advocate with Green River Peer Mentoring and Service Learning Program (formerly Connect 2 Complete C2C) under Dyane Haynes in Auburn, WA; April 2013- June 2014
 
 ### Authorship
-Find my academic publications using my ORCiD: 0000-0002-9925-6676_
+_Find my academic publications using my ORCiD: 0000-0002-9925-6676_  
 Blog Post, _LASER PULSE_, ["So Much to Say: Tips for Shortening Your Policy Brief"](https://laserpulse.org/2024/03/so-much-to-say-tips-for-shortening-your-policy-brief/) (March 2024)
 
 Blog Post, _LASER PULSE_, ["Contextualizing Deliverables: Policy Briefs"](https://laserpulse.org/2024/01/contextualizing-deliverables-policy-briefs/) (January 2024) 
