@@ -50,6 +50,14 @@ Blog Post, _LASER PULSE_, ["Contextualizing Deliverables: Policy Briefs"](https:
 
 Blog Post, _LASER PULSE_, ["Tips for Writing Your Upcoming Report"](https://laserpulse.org/2023/09/tips-for-writing-your-upcoming-report/) (September 2023)
 
+Madurapperuma, S., Connaughton, S. L., Murphy, K., Salonga, E., Gerdes, K., Fermando, N., Kaffe, N., Parviainen, J., Levine, N., Funkhouser, R., Mbah, P., Kelley, K.,  Jimenez, A., Chen, W. 2023. [Performance evaluation of community-based disaster risk management programs for USAID’s BHA/East Asia and the Pacific Region : summary report](https://dec.usaid.gov/dec/content/Detail_Presto.aspx?vID=47&ctID=ODVhZjk4NWQtM2YyMi00YjRmLTkxNjktZTcxMjM2NDBmY2Uy&rID=NjE3MTk5). West Lafayette, IN: Long-term Assistance and Services for Research - Partners for University-Led Solutions Engine (LASER PULSE Consortium).
+
+Madurapperuma, S., Connaughton, S. L., Murphy, K., Salonga, E., Gerdes, K., Fermando, N., Kaffe, N., Parviainen, J., Levine, N., Funkhouser, R., Mbah, P., Kelley, K.,  Jimenez, A., Chen, W. 2023. [Strengthening Community-based Disaster Preparedness in East Asia and the Pacific Region](https://dec.usaid.gov/dec/content/Detail_Presto.aspx?vID=47&ctID=ODVhZjk4NWQtM2YyMi00YjRmLTkxNjktZTcxMjM2NDBmY2Uy&rID=NjE3MjAx)--Policy Brief. West Lafayette, IN: Long-term Assistance and Services for Research - Partners for University-Led Solutions Engine (LASER PULSE Consortium).
+
+Connaughton, S. L., Lee, S., Burniske, G., Rohrbach, L, Ayele, Z., Abdi, A., Kelley, K., Funkhouser, R., Lasso Jimenez, A., Levine, N., Mbah, P., Mitsch, K., Saba, K. 2023. [Resilience of Ethiopian Communities: Measure, Understand and Act – Policy Brief](https://dec.usaid.gov/dec/content/Detail_Presto.aspx?vID=47&ctID=ODVhZjk4NWQtM2YyMi00YjRmLTkxNjktZTcxMjM2NDBmY2Uy&rID=NjE1MzIw). West Lafayette, IN: Long-term Assistance and Services for Research - Partners for University-Led Solutions Engine (LASER PULSE Consortium).
+
+Rohrbach, L, Connaughton, S. L., Lee, S., Burniske, G., Ayele, Z., Abdi, A., Levine, N., Kelley, K. 2023. [Networks for resilience: How to use research findings for practice](https://dec.usaid.gov/dec/content/Detail_Presto.aspx?vID=47&ctID=ODVhZjk4NWQtM2YyMi00YjRmLTkxNjktZTcxMjM2NDBmY2Uy&rID=NjE1Mjky). West Lafayette, IN: Long-term Assistance and Services for Research - Partners for University-Led Solutions Engine (LASER PULSE Consortium).
+
 Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/) (July 2022)
 
 Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
