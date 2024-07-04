@@ -13,7 +13,10 @@ Green River Community College, September 2012-June 2014 (earned: AA transfer deg
 Focus: Comprehensive sex education
 
 ### Post-Grad Employment
-Scientific Research Manager with LASER PULSE at PARI-GDI with Dr. Ginger Bolen in West Lafayette, IN (Remote Work); August 2023-Current
+Healthy Communities Specialist - Community Liaison at Kitsap Public Health District in Bremerton, WA; May 2024-Current
+
+Scientific Research Manager with LASER PULSE at PARI-GDI with Dr. Ginger Bolen in West Lafayette, IN (Remote Work); August 2023-May 2024
+
 #### Purdue
 Research Reviewer with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-August 2023
 
