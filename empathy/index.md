@@ -1,4 +1,4 @@
-_Updates Coming (8/12) and recommendations/comments still welcome!_
+_Recommendations/comments still welcome! Will add more from my dissertation by August 2024_
 ## Modeling Empathy
 
 This is where my endeavors to model empathy as a metatheoretical approach to conducting research by humans with humans will live. I intend to update this page as I get input from conferences and emails from scholars with their suggestions. 
