@@ -22,8 +22,7 @@ So as to not duplicate my full webpage on [empathy](/empathy) and the modeling o
 
 <sup>1</sup> It is critical that _we_ begin to recognize how both the trail of mementos as well as the act of forging ahead are not fully autonomous decisions. Often, our choices are dictated by, as Maslow would convieve of them, base needs like the ability to eat, sleep, and live in a secure shelter. These needs continue to come at a cost under the contemporary socio-political conceptualization of what _life_ looks like. While I value the work that I've done, I do think that it is critical to recognize this major influence on my decision making publically and call on others to do the same. 
 
-### Select Published Work
-__Dissertation__
+### Dissertation
 
 My dissertation is under embargo until August 2024. Please email me details about your interest in my work if you would like to read an advance copy of my work.
 
