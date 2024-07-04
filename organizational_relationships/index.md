@@ -1,11 +1,4 @@
 ## Current Organizational Relationships
-### [LASER PULSE](https://laserpulse.org/)
-
-LASER (Long-term Assistance and SErvices for Research) PULSE (Partners for University-Led Solutions Engine) is a five-year, $70M program funded through USAID’s Innovation, Technology, and Research Hub, that delivers research-driven solutions to field-sourced development challenges in USAID Partner countries.
-
-A consortium led by Purdue University, with core partners Catholic Relief Services, Indiana University, Makerere University, and the University of Notre Dame, implements the LASER PULSE program through a growing network of 2,700+ researchers and development practitioners in 62 countries.
-
-LASER PULSE collaborates with USAID missions, bureaus, and independent offices and other local stakeholders to identify research needs for critical development challenges, and funds and strengthens capacity of researcher-practitioner teams to co-design solutions that translate into policy and practice. 
 
 ### [DISCO Network](https://www.disconetwork.org/)
 
@@ -53,3 +46,11 @@ Here's a list of some of the helpful resources that members shared which helped 
 Mission: Build the capacity of community members and organizations to bring about systems change that improves maternal and child health outcomes in marginalized neighborhoods.
 
 Approach: Train, mentor, and partner with Grassroots MCH Leaders to bring about community-centered approaches that address inequitable social and economic systems underlying poor maternal and child health outcomes.
+
+### [LASER PULSE](https://laserpulse.org/)
+
+LASER (Long-term Assistance and SErvices for Research) PULSE (Partners for University-Led Solutions Engine) is a five-year, $70M program funded through USAID’s Innovation, Technology, and Research Hub, that delivers research-driven solutions to field-sourced development challenges in USAID Partner countries.
+
+A consortium led by Purdue University, with core partners Catholic Relief Services, Indiana University, Makerere University, and the University of Notre Dame, implements the LASER PULSE program through a growing network of 2,700+ researchers and development practitioners in 62 countries.
+
+LASER PULSE collaborates with USAID missions, bureaus, and independent offices and other local stakeholders to identify research needs for critical development challenges, and funds and strengthens capacity of researcher-practitioner teams to co-design solutions that translate into policy and practice. 
