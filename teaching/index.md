@@ -1,7 +1,7 @@
 ## Teaching
 ### Current Assignment
 
-Naomi will not be teaching in the near future as she is now a Scientific Research Manager for PARI-GDI on the LASER PULSE Program.
+Naomi will not be teaching in the near future as she is now a Healthy Communities Specialist for Kitsap Public Health. If you are interested in having Naomi teach for your program, reach out to her at naomit.tlevine[at]gmail[dot]com!
 
 This page holds information about previous teaching experience, Naomi's teaching philosophy & praxis, as well as some notes on work she's contributed to in order to share innovations in teaching with others.
 
