@@ -14,11 +14,11 @@ There are a bunch of methods that I have used and several that I'd like to use a
 - Autoethnography
 - Landscape Archaeology
 - Measuring clock versus percieved time (method developed for dissertation)
+- Pile Sorting
 
 ### Methods I Would Like to Try
 
 - Storytelling Groups
-- Pile Sorting
 
 ### Methods I Have Some Experience with & Lack Practice
 
