@@ -1,7 +1,5 @@
 ## [Alphabet Superset](https://www.alphabetsuperset.com/): Haiku
 
-Each week this page will be updated by 8pm on Sunday with a new haiku on a topic that begins with the next letter of the alphabet.
-
 ### [A](https://www.youtube.com/watch?v=XAJDQOCy62k)larm Clock
 WHO? wHat da—When?—oh...  
 DAMN OUT-OF-BODY ALERT!  
