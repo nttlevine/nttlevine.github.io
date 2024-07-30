@@ -17,7 +17,7 @@ __Scientific Research Manager__
 - Kitsap Public Health District: Community Liaison 
 
 __Recent Projects & Happenings__  
-- I am on a temporary hiatus from public projects, but I wil update when I'm working on something I can talk about. 
+- I am on a temporary hiatus from public projects, but I will update when I'm working on something I can talk about. 
 
 
   __If you are interested in contracting work from or collaborating with Dr. Levine, email her/them at naomit.tlevine[at]gmail[dot]com__
