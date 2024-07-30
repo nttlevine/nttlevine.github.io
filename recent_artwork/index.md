@@ -62,7 +62,7 @@ _Mixed media recycled art made from egg cartons and scrap paper. Spring 2024._
 I saw the inspo online and decided I had to try it! They were meant to be rabbits, but the ears turned out a little small. They are now some kind of rodent. At the time I made this I was in a pretty bad rut and funk. Getting my hands messy with a cute project to distract from my career at that time was cathartic.
 
 ### Stamps
-![stamps](Stamp Making2024.jpg)
+![stamps](StampMaking2024.jpg)
 
 _Cut lino stamps and ink. Spring 2024._
 
@@ -79,3 +79,8 @@ For my birthday I treated myself to a trip to a BIG art store. I spent hours the
 
 [Remote Access and Accessibility: An Accessible Video](https://www.youtube.com/watch?v=oEXz5LoXmtM) _is a short pre-recorded presentation I was a co-producer on with Emily Krebs and Kristen Tollan for the 2022 National Communication Association (NCA) conference. This presentation highlights the utility of video presentations at NCA. In this video we demonstrate: 1) who benefits from this format, 2) what infrastructure is needed to support video engagement, and 3) what can be done to make video content accessible._
 
+[temporality](https://youtu.be/XKHCBQPYtIU) _is a short visual gag I created while visiting the Eskenazi Museum of Art Museum in 2022._
+
+[Ingredients](https://youtu.be/ln9bcgCSeic) _is a short visal gag I created with Alden Bradford one evening in 2019 over a cup of tea._
+
+[day 5](https://youtu.be/GLV2eWA7BoQ) _is a stop motion project I did one afternoon in 2018._
