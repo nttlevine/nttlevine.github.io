@@ -1,7 +1,7 @@
 ## Naomi's CV
 ### Education
 Purdue University, August 2019-August 2023 (earned: PhD in Organizational Communication Studies) 
-Dissertation: "If these stalls could talk: Organizational invitations to identification evoking a user's sense of belonging as communicated through infrastructure"
+Dissertation: "[If these stalls could talk: Organizational invitations to identification evoking a user's sense of belonging as communicated through infrastructure](https://doi.org/10.25394/PGS.23787420.v1)"
 
 Indiana University Purdue University Indianapolis, August 2017-October 2019 (earned: MA in Applied Anthropology)
 Thesis: "Grassroots Maternal and Child Health Project: The Origin Stories of Bridge Leaders"
