@@ -24,9 +24,7 @@ So as to not duplicate my full webpage on [empathy](/empathy) and the modeling o
 
 ### Dissertation
 
-My dissertation is under embargo until August 2024. Please email me details about your interest in my work if you would like to read an advance copy of my work.
-
-_If These Stalls Could Talk: If these stalls could talk: Organizational invitations to identification evoking a user’s sense of belonging as communicated through infrastructure_
+Levine, Naomi Tova-Tmira (2023). If these stalls could talk: Organizational invitations to identification evoking a user’s sense of belonging as communicated through infrastructure. Purdue University Graduate School. Thesis. [https://doi.org/10.25394/PGS.23787420.v1](https://doi.org/10.25394/PGS.23787420.v1)
 
 __Abstract:__ 
 
