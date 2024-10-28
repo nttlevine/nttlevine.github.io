@@ -69,3 +69,8 @@ CRACK; SNAP!! __More.__ Again? Again!
 ripping our knowledge  
 pulling off the frilly bit  
 exposed scratch throughts; shame.  
+
+### [O](https://kagi.com/proxy/dinoovenmitts.jpg?c=it55UEBMaElZjubA9xYL6KLpJ4ORNElChWFk9pte6vx0uApK-6lKespv-pXBWf1HFRTt6ME3lm7bFTtrxijVT6tcUQlkqM_Ur43e38Ipn25ohWXUTJTo_3MADYZh4KzB)ven mitt
+Warm quilted puppet  
+clumsily chomping --mashing--  
+his flour dusted schnoz
