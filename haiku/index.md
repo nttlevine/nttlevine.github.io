@@ -45,7 +45,7 @@ inedible treat
 candy flossed fiberglass  
 jolly pink toxin  
 
-### [J](https://www.youtube.com/watch?v=PlbbLkljZMM)ournal
+### [J](https://youtu.be/CJufLeqfvCQ?si=GpXli3aHcUHg7M8A)ournal
 I wear my heart on   
 the pages I lock away  
 from your nosey gaze
@@ -65,7 +65,7 @@ Once struck. __no...__ Twice? Thrice?!
 CRACK; SNAP!! __More.__ Again? Again!  
 ..._Once struck?_ Twice? Thrice?! __FOUR?!?!__
 
-### [N](https://www.youtube.com/watch?v=vZ9myHhpS9s)otebook paper
+### [N](https://www.jetpens.com/search?q=notebooks)otebook paper
 ripping our knowledge  
 pulling off the frilly bit  
 exposed scratch throughts; shame.  
