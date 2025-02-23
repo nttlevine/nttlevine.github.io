@@ -19,6 +19,13 @@ _This multimedia art piece was created using [Gallery Glass paint](https://plaid
 
 This project was a chance to return to the concept of _Taking Off My Eyeballs_ and infuse if with the aesthetic of stained glass. I did a lot of experimenting with this new paint. It was a bit of a learning curve to get the faux solder lines even. I like that I can also peel up the paint and restick it to a different surface. It could be neat to make something that is conceptually similar to color/patterned contact lenses, but for these glasses. I also have several pairs of old glasses and see them at thrift shops regulary which means I could do a more sculptural project. Maybe some day I'll make a full lamp shade of Stained (eye)Glass(es)!
 
+### Tears of Pearls
+![tears of pearls](TearsPearls2024.jpg)
+
+_This multimedia art piece was created using [Gallery Glass paint](https://plaidonline.com/shop-products/gallery-glass-stained-glass-effect-paint-real-red-2-oz-19777) on a pair of glasses that had an out of date prescription. Fall 2024._
+
+This project was building on what I had learned from the last pair of faux stained glass glasses. I unintentionally made an homage to the song [Tears of Pearls by Savage Garden](https://www.youtube.com/watch?v=efYH-9E0mak) which was one of my favorite bands when I was a child. This piece is currently hanging at [Rimbert Illustration](https://rimbertillustration.wordpress.com/) as part of their February 2025 group art show "Love, Loss, and Light". 
+
 ### Twirl-o-Painting 45s
 ![45s](ArtVending2020.jpg)
 
