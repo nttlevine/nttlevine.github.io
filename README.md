@@ -13,11 +13,8 @@ I am an Organizational Communication Scholar, trained Anthropologist, and resear
 [Former Teaching Experience & Thoughts](teaching)  
 
 ### Current Work 
-__Scientific Research Manager__    
-- Kitsap Public Health District: Community Liaison 
-
-__Recent Projects & Happenings__  
-- I am on a temporary hiatus from public projects, but I will update when I'm working on something I can talk about. 
-
+__Work__    
+- Kitsap Public Health District: Community Liaison
+- Salish Behavioral Health Administrative Services Organization: Advisory Board Member
 
   __If you are interested in contracting work from or collaborating with Dr. Levine, email her/them at naomit.tlevine[at]gmail[dot]com__
