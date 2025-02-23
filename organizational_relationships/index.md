@@ -1,5 +1,11 @@
 ## Current Organizational Relationships
 
+### [Kitsap Public Health District](https://www.kitsappublichealth.org/)
+This is the local public health office for all of Kitsap County.
+
+### [Salish Behavioral Health Administrative Services Organization](https://www.kitsap.gov/hs/Pages/SBH-ASO-LANDING-HOME.aspx)
+This is a tri-county (Clallam, Jefferson, and Kitsap) entity which contracts with and coordinates different organizations in improving mental and behavioral health and substance use in the region. 
+
 ### [DISCO Network](https://www.disconetwork.org/)
 
 The DISCO Network integrates critical humanistic, social science, and artistic approaches to digital studies and foregrounds questions about the cultural implications of technology to envision a new anti-racist and anti-ableist digital future.
