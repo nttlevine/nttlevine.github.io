@@ -12,9 +12,12 @@ Focus: Domestic violence, substance abuse, and storytelling
 Green River Community College, September 2012-June 2014 (earned: AA transfer degree)
 Focus: Comprehensive sex education
 
-### Post-Grad Employment
-Healthy Communities Specialist - Community Liaison at Kitsap Public Health District in Bremerton, WA; May 2024-Current
+### Current
+Community Liaison at Kitsap Public Health District in Bremerton, WA; May 2024-Current
 
+Advisory Board Member at Salish Behavioral Health Administrative Services Organization in WA; January 2025-Current
+
+### Past
 Scientific Research Manager with LASER PULSE at PARI-GDI with Dr. Ginger Bolen in West Lafayette, IN (Remote Work); August 2023-May 2024
 
 #### Purdue
@@ -117,6 +120,10 @@ Program Specialist II with Tacoma Community College Workforce Education under Ke
 International Friend with International Cup of Tea under Steven (Monk) Wells in Boise, ID; Spring Semester 2012 (service-learning volunteer) 
 
 ### Accolades
+_Community Champion_ for my dedication to the community in my work with Kitsap Public Health District from Resilient Ecosystems, 2025
+
+_Excellent Community Partner_ for presentation during Facing Fentanyl Together from local Washington State Department of Social and Health Services, 2024
+
 Won _Best Blog Content_ at the Gold Carpet Gala for ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/) from Purdue University, 2023
 
 Nominated for William M. Plater Civic Engagement Medallion from IUPUI, 2018
