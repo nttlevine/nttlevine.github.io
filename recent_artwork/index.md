@@ -77,7 +77,7 @@ For my birthday I treated myself to a trip to a BIG art store. I spent hours the
 
 ### Videos
 
-#### Rotary Number Pad
+#### [Rotary Number Pad](https://youtu.be/Or5rewKwU2g)
 ![poster](Levine_PosterSmall_WSFF2025.png)
 
 _A fake advertisement I created for Alden Bradford's electronics project where he transformed a rotary phone into a number pad for computers. Is it a practical item? Will this be the next technological sensation? Does this feel a little adjacent to steampunk technologies? I'll let you decide._
@@ -95,3 +95,4 @@ _A fake advertisement I created for Alden Bradford's electronics project where h
 [Ingredients](https://youtu.be/ln9bcgCSeic) _is a short visal gag I created with Alden Bradford one evening in 2019 over a cup of tea._
 
 [day 5](https://youtu.be/GLV2eWA7BoQ) _is a stop motion project I did one afternoon in 2018._
+
