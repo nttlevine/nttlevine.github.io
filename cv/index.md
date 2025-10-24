@@ -17,45 +17,14 @@ Community Liaison at Kitsap Public Health District in Bremerton, WA; May 2024-Cu
 
 Advisory Board Member at Salish Behavioral Health Administrative Services Organization in WA; January 2025-Current
 
-### Past
-Scientific Research Manager with LASER PULSE at PARI-GDI with Dr. Ginger Bolen in West Lafayette, IN (Remote Work); August 2023-May 2024
-
-Research Reviewer with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-August 2023
-
-Data Analyst with ["A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks"](https://laserpulse.org/portfolio/resilience-of-ethiopian-communities/) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current
-
-Researcher with ["Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region"](https://www.adpc.net/igo/contents/Media/media-news.asp?pid=1853&Topic=) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- Current
-
-Focus Group Co-moderator with "Experiences with sexual content in online dating" at Purdue University with Amanda E. Lilly in West Lafayette, IN; August 2022-November 2022 
-
-Data Analyst with "Tracking the Process of Treatment Seeking in Breast Cancer Patients" at Purdue University with Yuehwern Yih and Min Lee in West Lafayette, IN; June 2022- October 2022 
-
-Book Indexer for Conflict and Peace: Transforming Conflict and Building Peace under Dr. Stacey Connaughton in West Lafayette, IN; November 2020- July 2020
-
-Feminist Consultant & Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021  
-
-Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
-
-Oral Historian & Researcher with Central State Hospital Oral History Project at Indiana University-Purdue University Indianapolis under Dr. Emily Beckman in Indianapolis, IN; September 2018- August 2019 
-
-Storytelling Educator & Researcher with [Grassroots Maternal and Child Health Leadership Project](https://medicine.iu.edu/pediatrics/specialties/health-services/grassroots-maternal-child-health) at Indiana University-Purdue University Indianapolis under Dr. Jack Turman in Indianapolis, IN; September 2018-May 2019 
-
-Graduate Researcher with Division of Mental Health and Addiction Alcohol and Other Drug Prevention Grant at Indiana University-Purdue University Indianapolis under Eric Teske in Indianapolis, IN; October 2017-December 2018 
-
-Program Specialist II with Tacoma Community College Workforce Education under Kelli Johnston and Pwint Koko in Tacoma, WA; January 2017-July 2017
-
-Project Assistant with [Making Mathematical Reasoning Explicit](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1050397) (a grant funded by NSF) at Washington State University under Libby Knott and Anne Adams in Pullman, WA; June 2015-July 2016 
-
-Peer Advocate with Green River Peer Mentoring and Service Learning Program (formerly Connect 2 Complete C2C) under Dyane Haynes in Auburn, WA; April 2013- June 2014
-
-International Friend with International Cup of Tea under Steven (Monk) Wells in Boise, ID; Spring Semester 2012 (service-learning volunteer) 
-
 ### Professional Presentations
-WSPHA, Yakima, WA; 40-minute oral presentation, "Praxis for Systemic Change" to be presented October 2025
+WSPHA, Yakima, WA; 40-minute oral presentation, "Praxis for Systemic Change" presented October 2025
 
-WSPHA, Yakima, WA; co-authored proposal, poster presentation, "Am I alone in Kitsap County: An effort to dismantle silos in Kitsap County" to be presented October 2025
+WSPHA, Yakima, WA; co-authored proposal, poster presentation, "Am I alone in Kitsap County: An effort to dismantle silos in Kitsap County" presented October 2025
 
-DSHS Bremerton, "Facing Fentanyl Together" presented September 2024
+Kitsap Housing and Homelessness Coalition; ["Opioid Response: Partner Meetings & Network Map"](https://www.youtube.com/live/zMfJeCZ3n-o?si=o_KXqMywN-8OrbXB&t=191) presented October 2025
+
+DSHS Bremerton; "Facing Fentanyl Together" presented September 2024
 
 _LASER Focused_ co-facilitation, ["Policy Brief Overview"](https://laserpulse.org/laser-focused-policy-brief-overview/) presented February 2024
 
@@ -114,6 +83,39 @@ Nominated for William M. Plater Civic Engagement Medallion from IUPUI, 2018
 
 Student Leadership Award from Green River Community College, 2013
 
+### Past
+Scientific Research Manager with LASER PULSE at PARI-GDI with Dr. Ginger Bolen in West Lafayette, IN (Remote Work); August 2023-May 2024
+
+Research Reviewer with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-August 2023
+
+Data Analyst with ["A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks"](https://laserpulse.org/portfolio/resilience-of-ethiopian-communities/) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current
+
+Researcher with ["Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region"](https://www.adpc.net/igo/contents/Media/media-news.asp?pid=1853&Topic=) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- Current
+
+Focus Group Co-moderator with "Experiences with sexual content in online dating" at Purdue University with Amanda E. Lilly in West Lafayette, IN; August 2022-November 2022 
+
+Data Analyst with "Tracking the Process of Treatment Seeking in Breast Cancer Patients" at Purdue University with Yuehwern Yih and Min Lee in West Lafayette, IN; June 2022- October 2022 
+
+Book Indexer for Conflict and Peace: Transforming Conflict and Building Peace under Dr. Stacey Connaughton in West Lafayette, IN; November 2020- July 2020
+
+Feminist Consultant & Co-author with “Nice” to “ewww”: An inductive thematic analysis of responses to initiation messages containing sexual content on online dating tools at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021  
+
+Second Coder and Co-author with ‘who wants a dick pic? 👉🏽👈🏽’ at Purdue University with Amanda Lilly in West Lafayette, IN; October 2020- March 2021 
+
+Oral Historian & Researcher with Central State Hospital Oral History Project at Indiana University-Purdue University Indianapolis under Dr. Emily Beckman in Indianapolis, IN; September 2018- August 2019 
+
+Storytelling Educator & Researcher with [Grassroots Maternal and Child Health Leadership Project](https://medicine.iu.edu/pediatrics/specialties/health-services/grassroots-maternal-child-health) at Indiana University-Purdue University Indianapolis under Dr. Jack Turman in Indianapolis, IN; September 2018-May 2019 
+
+Graduate Researcher with Division of Mental Health and Addiction Alcohol and Other Drug Prevention Grant at Indiana University-Purdue University Indianapolis under Eric Teske in Indianapolis, IN; October 2017-December 2018 
+
+Program Specialist II with Tacoma Community College Workforce Education under Kelli Johnston and Pwint Koko in Tacoma, WA; January 2017-July 2017
+
+Project Assistant with [Making Mathematical Reasoning Explicit](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1050397) (a grant funded by NSF) at Washington State University under Libby Knott and Anne Adams in Pullman, WA; June 2015-July 2016 
+
+Peer Advocate with Green River Peer Mentoring and Service Learning Program (formerly Connect 2 Complete C2C) under Dyane Haynes in Auburn, WA; April 2013- June 2014
+
+International Friend with International Cup of Tea under Steven (Monk) Wells in Boise, ID; Spring Semester 2012 (service-learning volunteer) 
+
 ### Teaching
 Instructor for "Principles of Interviewing" (COM325) at Purdue University under Traci Latoz in West Lafayette, IN; June 2022-August 2022
 
@@ -152,3 +154,4 @@ College Drama Class (2014)
 - “How to Succeed in Business Without Really Trying” (cast; musical)
 
 Boise State Model United Nations (2012)
+
