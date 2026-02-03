@@ -1,6 +1,6 @@
 # Welcome to [Dr.](https://doi.org/10.25394/PGS.23787420.v1) Naomi T-T Levine's Website
 
-I am an Organizational Communication Scholar, trained Anthropologist, and research translation specialist. 
+I am an Organizational Communication Scholar, trained Anthropologist, and research translation specialist. I currently work as a public health community liaison. 
   
 #### Quick Links
 [CV](cv)  
@@ -14,8 +14,8 @@ I am an Organizational Communication Scholar, trained Anthropologist, and resear
 
 ### Current Work 
 __Kitsap Public Health District: Community Liaison__    
-*  Hear me summarize a large chunk of my job at the October 15th Kitsap Housing and Homelessness Coalition Meeting: https://www.youtube.com/live/zMfJeCZ3n-o 
+*  Hear me summarize a large chunk of my job at the October Kitsap Housing and Homelessness Coalition Meeting: https://www.youtube.com/live/zMfJeCZ3n-o 
 
-* Salish Behavioral Health Administrative Services Organization: Advisory Board Member  
+* Salish Behavioral Health Administrative Services Organization: Advisory Board Member; vice-chair for 2026
 
   __If you are interested in contracting work from or collaborating with Dr. Levine, email her/them at naomit.tlevine[at]gmail[dot]com__
