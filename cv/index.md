@@ -15,7 +15,7 @@ Focus: Comprehensive sex education
 ### Current
 Community Liaison at Kitsap Public Health District in Bremerton, WA; May 2024-Current
 
-Advisory Board Member at Salish Behavioral Health Administrative Services Organization in WA; January 2025-Current
+Advisory Board Member (vice-chair for 2026) at Salish Behavioral Health Administrative Services Organization in WA; January 2025-Current
 
 ### Professional Presentations
 WSPHA, Yakima, WA; 40-minute oral presentation, "Praxis for Systemic Change" presented October 2025
@@ -88,9 +88,9 @@ Scientific Research Manager with LASER PULSE at PARI-GDI with Dr. Ginger Bolen i
 
 Research Reviewer with LASER PULSE at Purdue Univeristy with Dr. Yuehwern Yih & Pallavi Gupta in West Lafayette, IN; October 2022-August 2023
 
-Data Analyst with ["A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks"](https://laserpulse.org/portfolio/resilience-of-ethiopian-communities/) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- Current
+Data Analyst with ["A systems, networks, and human-centered design approach to assessing the resilience of Ethiopian communities experiencing recurring violent conflict shocks"](https://laserpulse.org/portfolio/resilience-of-ethiopian-communities/) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; November 2021- April 2023
 
-Researcher with ["Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region"](https://www.adpc.net/igo/contents/Media/media-news.asp?pid=1853&Topic=) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- Current
+Researcher with ["Evaluation of Community-Based Disaster Risk Management (CBDRM) Programs for BHA/East Asia and the Pacific (EAP) Region"](https://www.adpc.net/igo/contents/Media/media-news.asp?pid=1853&Topic=) via LASER PULSE at Purdue University with Dr. Stacey Connaughton in West Lafayette, IN; July 2022- February 2023
 
 Focus Group Co-moderator with "Experiences with sexual content in online dating" at Purdue University with Amanda E. Lilly in West Lafayette, IN; August 2022-November 2022 
 
@@ -154,4 +154,5 @@ College Drama Class (2014)
 - “How to Succeed in Business Without Really Trying” (cast; musical)
 
 Boise State Model United Nations (2012)
+
 
