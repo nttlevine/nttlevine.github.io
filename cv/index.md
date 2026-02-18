@@ -52,6 +52,8 @@ CGSA Graduate Student Conference, Lafayette, IN, Methods: Pile Sorting (March 20
 
 ### Authorship
 _Find my academic publications using my ORCiD: 0000-0002-9925-6676_  
+Brunese, P., Levine, N., Connaughton, S. L., Gupta, P., & Yih, Y. (2025). Embedded research translation: an approach to shift the locus of power in collaborative research. Development in Practice, 1-13. [https://doi.org/10.1080/09614524.2025.2585947](https://www.tandfonline.com/doi/abs/10.1080/09614524.2025.2585947)
+
 Lee MK, Levine NT-T, Hayes LR, Shields CG, Yih Y (2024) _Navigating the cancer care continuum: A comparative study of Black and White breast cancer patients._ PLoS ONE 19(10): e0312547. [https://doi.org/10.1371/journal.pone.0312547](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0312547)
 
 Blog Post, _LASER PULSE_, ["So Much to Say: Tips for Shortening Your Policy Brief"](https://laserpulse.org/2024/03/so-much-to-say-tips-for-shortening-your-policy-brief/) (March 2024)
@@ -154,5 +156,6 @@ College Drama Class (2014)
 - “How to Succeed in Business Without Really Trying” (cast; musical)
 
 Boise State Model United Nations (2012)
+
 
 
