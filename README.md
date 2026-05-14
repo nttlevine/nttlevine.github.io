@@ -14,6 +14,8 @@ I am an Organizational Communication Scholar, trained Anthropologist, and resear
 
 ### Current Work 
 __Kitsap Public Health District: Community Liaison__    
+*  Hear my interview about the importance of social connection for overdose prevention on BKAT's Engaging Kitsap: https://www.youtube.com/watch?v=wx1QCfe3uj0
+
 *  Hear me summarize a large chunk of my job at the October Kitsap Housing and Homelessness Coalition Meeting: https://www.youtube.com/live/zMfJeCZ3n-o 
 
 * Salish Behavioral Health Administrative Services Organization: Advisory Board Member; vice-chair for 2026
