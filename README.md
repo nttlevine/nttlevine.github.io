@@ -20,4 +20,6 @@ __Kitsap Public Health District: Community Liaison__
 
 * Salish Behavioral Health Administrative Services Organization: Advisory Board Member; chair August-December 2026
 
+* __I GOT CITED!__ Mapes, J., & Spence, N. (2026). [Counter-mapping as Action Research: Lessons Learned from the Microgeography of Universal Public Restrooms](https://cartographicperspectives.org/index.php/journal/article/view/2035). Cartographic Perspectives.
+
   __If you are interested in contracting work from or collaborating with Dr. Levine, email her/them at naomit.tlevine[at]gmail[dot]com__
