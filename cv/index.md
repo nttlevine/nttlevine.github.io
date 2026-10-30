@@ -15,12 +15,16 @@ Focus: Comprehensive sex education
 ### Current
 Community Liaison at Kitsap Public Health District in Bremerton, WA; May 2024-Current
 
-Advisory Board Member (vice-chair for 2026) at Salish Behavioral Health Administrative Services Organization in WA; January 2025-Current
+Advisory Board Member (vice-chair January-July 2026; chair August-December 2026) at Salish Behavioral Health Administrative Services Organization in WA; January 2025-Current
 
 ### Professional Presentations
-WSPHA, Yakima, WA; 40-minute oral presentation, "Praxis for Systemic Change" presented October 2025
+Rural Prevention Conference, Wenatchee, WA; oral presentation, "How to Localize a Campaign: [~~Tough~~ Love Connection is Overdose Prevention](https://www.kitsappublichealth.org/love) presented October 2026
 
-WSPHA, Yakima, WA; co-authored proposal, poster presentation, "Am I alone in Kitsap County: An effort to dismantle silos in Kitsap County" presented October 2025
+WSALPHO, Vancouver, WA; co-presented oral presentation, Kitsap Opioid Prevention and Response Work presented September 2026
+
+WSPHA Evaluation Committee, Yakima, WA; 40-minute oral presentation, "Praxis for Systemic Change" presented October 2025
+
+WSPHA, Yakima, WA; co-presented poster presentation, "Am I alone in Kitsap County: An effort to dismantle silos in Kitsap County" presented October 2025
 
 Kitsap Housing and Homelessness Coalition; ["Opioid Response: Partner Meetings & Network Map"](https://www.youtube.com/live/zMfJeCZ3n-o?si=o_KXqMywN-8OrbXB&t=191) presented October 2025
 
@@ -50,6 +54,19 @@ Graduates Achieving Inclusion Now (GAIN), Virtual, Moderated Parallel sessions o
 
 CGSA Graduate Student Conference, Lafayette, IN, Methods: Pile Sorting (March 2021)
 
+### Accolades
+_20 Under 40_ nominee for leadership in the community both personally and professionally from Leadership Kitsap, 2027
+
+_Community Champion_ for my dedication to the community in my work with Kitsap Public Health District from Resilient Ecosystems, 2025
+
+_Excellent Community Partner_ for presentation during Facing Fentanyl Together from local Washington State Department of Social and Health Services, 2024
+
+Won _Best Blog Content_ at the Gold Carpet Gala for ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/) from Purdue University, 2023
+
+Nominated for William M. Plater Civic Engagement Medallion from IUPUI, 2018
+
+Student Leadership Award from Green River Community College, 2013
+
 ### Authorship
 _Find my academic publications using my ORCiD: 0000-0002-9925-6676_  
 Brunese, P., Levine, N., Connaughton, S. L., Gupta, P., & Yih, Y. (2025). Embedded research translation: an approach to shift the locus of power in collaborative research. Development in Practice, 1-13. [https://doi.org/10.1080/09614524.2025.2585947](https://www.tandfonline.com/doi/abs/10.1080/09614524.2025.2585947)
@@ -73,17 +90,6 @@ Rohrbach, L, Connaughton, S. L., Lee, S., Burniske, G., Ayele, Z., Abdi, A., Lev
 Blog Post, _LASER PULSE_, ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/) (July 2022)
 
 Irby A, Macey E, Levine N, Durham JR, Turman JE. _Grounding the Work of Grassroots MCH Leaders in Storytelling._ Health Promotion Practice. 2023;0(0). [doi:10.1177/15248399221151175](https://journals.sagepub.com/doi/10.1177/15248399221151175)
-
-### Accolades
-_Community Champion_ for my dedication to the community in my work with Kitsap Public Health District from Resilient Ecosystems, 2025
-
-_Excellent Community Partner_ for presentation during Facing Fentanyl Together from local Washington State Department of Social and Health Services, 2024
-
-Won _Best Blog Content_ at the Gold Carpet Gala for ["Secondary Data Management & Organization"](https://laserpulse.org/2022/07/secondary-data-management-organization/) from Purdue University, 2023
-
-Nominated for William M. Plater Civic Engagement Medallion from IUPUI, 2018
-
-Student Leadership Award from Green River Community College, 2013
 
 ### Past
 Scientific Research Manager with LASER PULSE at PARI-GDI with Dr. Ginger Bolen in West Lafayette, IN (Remote Work); August 2023-May 2024
