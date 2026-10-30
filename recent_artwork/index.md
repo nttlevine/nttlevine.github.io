@@ -78,13 +78,11 @@ For my birthday I treated myself to a trip to a BIG art store. I spent hours the
 ### Videos
 
 #### [Rotary Number Pad](https://youtu.be/Or5rewKwU2g)
+_A fake advertisement I created for Alden Bradford's electronics project where he transformed a rotary phone into a number pad for computers. Is it a practical item? Will this be the next technological sensation? Does this feel a little adjacent to steampunk technologies? I'll let you decide._
 ![poster](Levine_PosterSmall_WSFF2025.png)
 
-_A fake advertisement I created for Alden Bradford's electronics project where he transformed a rotary phone into a number pad for computers. Is it a practical item? Will this be the next technological sensation? Does this feel a little adjacent to steampunk technologies? I'll let you decide._
-
-![RobotCostume](Costuming2020.jpg)
-
 [Technofeminism](https://youtu.be/VaXiNDdpK90) _is a video essay that I created for an independent study course I did in the summer of 2020. This was my first attempt at a video essay and I am most proud of the short sci-fi sketch my husband performed in to highlight what Technofeminism is not. This project is one of my earliest documentations of my intellectualizing of and musing about bathrooms which has come to playfully exasperate my friends and family over the years. I thought I'd also share a behind the scenes shot of my costume making for this project_
+![RobotCostume](Costuming2020.jpg)
 
 [Even the Toothbrush Was Digital](https://youtu.be/UEXgznoUKl4) _is the second video essay that I created and was for a course I took in the fall of 2020. The goal of this project was to explore my relationship to technology during my time working-from-home because of COVID-19 and reflecting on the intersectionality of technological and work experiences. The expereince of capturing and discussing the immense privilege and responsibility of being able to work-from-home during a pandemic has lingered for me in the time since. This continues to inform my work and organizing today._
 
